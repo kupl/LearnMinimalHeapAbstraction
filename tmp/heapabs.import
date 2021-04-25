@@ -1,0 +1,5 @@
+option,delimiter,"	"
+option,hasColumnNames,false
+
+fromFile,"/home/minseok/SafeAI/doop_alloc/HeapAbstraction.myfacts",a,heap,b,mergedheap
+toPredicate,HeapAbstraction,heap,mergedheap

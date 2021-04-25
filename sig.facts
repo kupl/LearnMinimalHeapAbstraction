@@ -1,0 +1,1762 @@
+  <class com.sun.security.auth.PrincipalComparator>, 5
+  <class dacapo.DacapoException>, 5
+  <class dacapo.TeeOutputStream>, 5
+  <class java.awt.AWTPermission>, 5
+  <class java.io.BufferedInputStream>, 5
+  <class java.io.ByteArrayInputStream>, 5
+  <class java.io.Console>, 5
+  <class java.io.DataInputStream>, 5
+  <class java.io.DeleteOnExitHook>, 5
+  <class java.io.EOFException>, 5
+  <class java.io.ExpiringCache$Entry>, 5
+  <class java.io.File>, 5
+  <class java.io.FileInputStream>, 5
+  <class java.io.FileNotFoundException>, 5
+  <class java.io.FileOutputStream>, 5
+  <class java.io.FilePermission>, 5
+  <class java.io.FilePermissionCollection>, 5
+  <class java.io.FileReader>, 5
+  <class java.io.IOException>, 5
+  <class java.io.PushbackInputStream>, 5
+  <class java.io.SequenceInputStream>, 5
+  <class java.io.UnixFileSystem>, 5
+  <class java.io.UnsupportedEncodingException>, 5
+  <class java.lang.ApplicationShutdownHooks>, 5
+  <class java.lang.ArithmeticException>, 5
+  <class java.lang.ArrayIndexOutOfBoundsException>, 5
+  <class java.lang.AssertionError>, 5
+  <class java.lang.Boolean>, 5
+  <class java.lang.Byte>, 5
+  <class java.lang.Character>, 5
+  <class java.lang.CharacterData00>, 5
+  <class java.lang.CharacterData01>, 5
+  <class java.lang.CharacterData02>, 5
+  <class java.lang.CharacterData0E>, 5
+  <class java.lang.CharacterDataLatin1>, 5
+  <class java.lang.Character$UnicodeBlock>, 5
+  <class java.lang.Class>, 5
+  <class java.lang.ClassCastException>, 5
+  <class java.lang.ClassLoader>, 5
+  <class java.lang.ClassLoader$NativeLibrary>, 5
+  <class java.lang.ClassNotFoundException>, 5
+  <class java.lang.ConditionalSpecialCasing$Entry>, 5
+  <class java.lang.Error>, 5
+  <class java.lang.Exception>, 5
+  <class java.lang.ExceptionInInitializerError>, 5
+  <class java.lang.IllegalAccessException>, 5
+  <class java.lang.IllegalArgumentException>, 5
+  <class java.lang.IllegalMonitorStateException>, 5
+  <class java.lang.IllegalStateException>, 5
+  <class java.lang.IllegalThreadStateException>, 5
+  <class java.lang.IndexOutOfBoundsException>, 5
+  <class java.lang.InheritableThreadLocal>, 5
+  <class java.lang.InstantiationException>, 5
+  <class java.lang.Integer>, 5
+  <class java.lang.InternalError>, 5
+  <class java.lang.InterruptedException>, 5
+  <class java.lang.NegativeArraySizeException>, 5
+  <class java.lang.NoClassDefFoundError>, 5
+  <class java.lang.NoSuchFieldException>, 5
+  <class java.lang.NoSuchMethodException>, 5
+  <class java.lang.NullPointerException>, 5
+  <class java.lang.NumberFormatException>, 5
+  <class java.lang.Object>, 5
+  <class java.lang.OutOfMemoryError>, 5
+  <class java.lang.Package>, 5
+  <class java.lang.ProcessBuilder>, 5
+  <class java.lang.ProcessEnvironment$StringEntry>, 5
+  <class java.lang.ProcessEnvironment$Value>, 5
+  <class java.lang.ProcessEnvironment$Variable>, 5
+  <class java.lang.ProcessImpl>, 5
+  <class java.lang.ref.Finalizer$FinalizerThread>, 5
+  <class java.lang.reflect.InvocationHandler>, 5
+  <class java.lang.ref.Reference$ReferenceHandler>, 5
+  <class java.lang.ref.SoftReference>, 5
+  <class java.lang.ref.WeakReference>, 5
+  <class java.lang.RuntimeException>, 5
+  <class java.lang.RuntimePermission>, 5
+  <class java.lang.SecurityException>, 5
+  <class java.lang.SecurityManager>, 5
+  <class java.lang.Shutdown>, 5
+  <class java.lang.StrictMath>, 5
+  <class java.lang.String>, 5
+  <class java.lang.StringCoding$StringDecoder>, 5
+  <class java.lang.StringCoding$StringEncoder>, 5
+  <class java.lang.StringIndexOutOfBoundsException>, 5
+  <class java.lang.System>, 5
+  <class java.lang.Terminator$1>, 5
+  <class java.lang.Thread>, 5
+  <class java.lang.ThreadGroup>, 5
+  <class java.lang.ThreadLocal>, 5
+  <class java.lang.UNIXProcess$1$1>, 5
+  <class java.lang.UnsatisfiedLinkError>, 5
+  <class java.lang.UnsupportedOperationException>, 5
+  <class java.math.BigDecimal>, 5
+  <class java.math.BigInteger>, 5
+  <class java.math.MutableBigInteger>, 5
+  <class java.math.RoundingMode>, 5
+  <class java.net.Inet6Address>, 5
+  <class java.net.InetAddress>, 5
+  <class java.net.InetAddress$CacheEntry>, 5
+  <class java.net.MalformedURLException>, 5
+  <class java.net.NetPermission>, 5
+  <class java.net.SocketPermission>, 5
+  <class java.net.SocketPermissionCollection>, 5
+  <class java.net.UnknownHostException>, 5
+  <class java.net.URI>, 5
+  <class java.net.URISyntaxException>, 5
+  <class java.net.URL>, 5
+  <class java.nio.Bits>, 5
+  <class java.nio.BufferOverflowException>, 5
+  <class java.nio.BufferUnderflowException>, 5
+  <class java.nio.ByteBuffer>, 5
+  <class java.nio.charset.Charset>, 5
+  <class java.nio.charset.CharsetDecoder>, 5
+  <class java.nio.charset.CharsetEncoder>, 5
+  <class java.nio.charset.CoderMalfunctionError>, 5
+  <class java.nio.charset.CoderResult>, 5
+  <class java.nio.charset.IllegalCharsetNameException>, 5
+  <class java.nio.charset.MalformedInputException>, 5
+  <class java.nio.charset.spi.CharsetProvider>, 5
+  <class java.nio.charset.UnmappableCharacterException>, 5
+  <class java.nio.charset.UnsupportedCharsetException>, 5
+  <class java.nio.HeapByteBuffer>, 5
+  <class java.nio.ReadOnlyBufferException>, 5
+  <class java.security.AllPermission>, 5
+  <class java.security.AllPermissionCollection>, 5
+  <class java.security.BasicPermissionCollection>, 5
+  <class java.security.cert.CertificateEncodingException>, 5
+  <class java.security.cert.CertificateException>, 5
+  <class java.security.cert.CertificateExpiredException>, 5
+  <class java.security.cert.CertificateFactorySpi>, 5
+  <class java.security.cert.CertificateNotYetValidException>, 5
+  <class java.security.cert.CertificateParsingException>, 5
+  <class java.security.cert.CertPathBuilderSpi>, 5
+  <class java.security.cert.CertPathValidatorException>, 5
+  <class java.security.cert.CertPathValidatorSpi>, 5
+  <class java.security.cert.CertStore>, 5
+  <class java.security.cert.CertStoreSpi>, 5
+  <class java.security.cert.CollectionCertStoreParameters>, 5
+  <class java.security.cert.CRLException>, 5
+  <class java.security.cert.TrustAnchor>, 5
+  <class java.security.CodeSigner>, 5
+  <class java.security.CodeSource>, 5
+  <class java.security.DigestException>, 5
+  <class java.security.InvalidAlgorithmParameterException>, 5
+  <class java.security.InvalidKeyException>, 5
+  <class java.security.InvalidParameterException>, 5
+  <class java.security.KeyFactorySpi>, 5
+  <class java.security.KeyStoreException>, 5
+  <class java.security.MessageDigest$Delegate>, 5
+  <class java.security.NoSuchAlgorithmException>, 5
+  <class java.security.NoSuchProviderException>, 5
+  <class java.security.PermissionCollection>, 5
+  <class java.security.Permissions>, 5
+  <class java.security.PermissionsHash>, 5
+  <class java.security.Policy>, 5
+  <class java.security.ProtectionDomain>, 5
+  <class java.security.ProtectionDomain$Key>, 5
+  <class java.security.Provider$EngineDescription>, 5
+  <class java.security.ProviderException>, 5
+  <class java.security.Provider$Service>, 5
+  <class java.security.Provider$ServiceKey>, 5
+  <class java.security.Provider$UString>, 5
+  <class java.security.SecureClassLoader>, 5
+  <class java.security.SecureRandom>, 5
+  <class java.security.SecureRandomSpi>, 5
+  <class java.security.SecurityPermission>, 5
+  <class java.security.SignatureException>, 5
+  <class java.security.SignatureSpi>, 5
+  <class java.security.spec.InvalidKeySpecException>, 5
+  <class java.security.UnresolvedPermission>, 5
+  <class java.security.UnresolvedPermissionCollection>, 5
+  <class java.text.AttributedCharacterIterator$Attribute>, 5
+  <class java.text.AttributedString>, 5
+  <class java.text.AttributedString$AttributedStringIterator>, 5
+  <class java.text.AttributeEntry>, 5
+  <class java.text.BreakDictionary$1>, 5
+  <class java.text.BreakIterator>, 5
+  <class java.text.BreakIterator$BreakIteratorCache>, 5
+  <class java.text.DateFormat>, 5
+  <class java.text.DateFormat$Field>, 5
+  <class java.text.DateFormatSymbols>, 5
+  <class java.text.DecimalFormat>, 5
+  <class java.text.DecimalFormatSymbols>, 5
+  <class java.text.DigitList>, 5
+  <class java.text.FieldPosition>, 5
+  <class java.text.MessageFormat$Field>, 5
+  <class java.text.Normalizer$Form>, 5
+  <class java.text.NumberFormat>, 5
+  <class java.text.NumberFormat$Field>, 5
+  <class java.text.RuleBasedBreakIterator$1>, 5
+  <class java.text.SimpleDateFormat>, 5
+  <class java.text.spi.BreakIteratorProvider>, 5
+  <class java.text.spi.DateFormatProvider>, 5
+  <class java.text.spi.DateFormatSymbolsProvider>, 5
+  <class java.text.spi.DecimalFormatSymbolsProvider>, 5
+  <class java.text.spi.NumberFormatProvider>, 5
+  <class java.util.ArrayList>, 5
+  <class java.util.BitSet>, 5
+  <class java.util.Calendar>, 5
+  <class java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet$UnmodifiableEntry>, 5
+  <class java.util.concurrent.AbstractExecutorService>, 5
+  <class java.util.concurrent.atomic.AtomicInteger>, 5
+  <class java.util.concurrent.atomic.AtomicLong>, 5
+  <class java.util.concurrent.atomic.AtomicReference>, 5
+  <class java.util.concurrent.CancellationException>, 5
+  <class java.util.concurrent.ExecutionException>, 5
+  <class java.util.concurrent.locks.AbstractQueuedSynchronizer>, 5
+  <class java.util.concurrent.locks.AbstractQueuedSynchronizer$Node>, 5
+  <class java.util.ConcurrentModificationException>, 5
+  <class java.util.concurrent.RejectedExecutionException>, 5
+  <class java.util.concurrent.ThreadPoolExecutor>, 5
+  <class java.util.concurrent.ThreadPoolExecutor$Worker>, 5
+  <class java.util.Currency>, 5
+  <class java.util.EmptyStackException>, 5
+  <class java.util.GregorianCalendar>, 5
+  <class java.util.HashMap>, 5
+  <class java.util.HashMap$Entry>, 5
+  <class java.util.HashSet>, 5
+  <class java.util.Hashtable>, 5
+  <class java.util.Hashtable$Entry>, 5
+  <class java.util.JapaneseImperialCalendar>, 5
+  <class java.util.jar.Attributes>, 5
+  <class java.util.jar.Attributes$Name>, 5
+  <class java.util.jar.JarException>, 5
+  <class java.util.jar.JarFile>, 5
+  <class java.util.jar.JarInputStream>, 5
+  <class java.util.jar.Manifest>, 5
+  <class java.util.LinkedHashMap$Entry>, 5
+  <class java.util.LinkedList>, 5
+  <class java.util.Locale>, 5
+  <class java.util.logging.Level>, 5
+  <class java.util.logging.Level$KnownLevel>, 5
+  <class java.util.logging.Logger>, 5
+  <class java.util.logging.LoggingPermission>, 5
+  <class java.util.logging.LogManager>, 5
+  <class java.util.logging.LogManager$Cleaner>, 5
+  <class java.util.logging.LogManager$LoggerContext>, 5
+  <class java.util.logging.LogManager$LoggerWeakRef>, 5
+  <class java.util.logging.LogManager$LogNode>, 5
+  <class java.util.logging.LogManager$RootLogger>, 5
+  <class java.util.logging.LogManager$SystemLoggerContext>, 5
+  <class java.util.logging.LogRecord>, 5
+  <class java.util.MissingResourceException>, 5
+  <class java.util.NoSuchElementException>, 5
+  <class java.util.PropertyPermission>, 5
+  <class java.util.PropertyPermissionCollection>, 5
+  <class java.util.PropertyResourceBundle>, 5
+  <class java.util.Random>, 5
+  <class java.util.regex.Pattern>, 5
+  <class java.util.regex.Pattern$CharPropertyNames$1>, 5
+  <class java.util.regex.Pattern$CharPropertyNames$2>, 5
+  <class java.util.regex.Pattern$CharPropertyNames$3>, 5
+  <class java.util.regex.Pattern$CharPropertyNames$4>, 5
+  <class java.util.regex.Pattern$CharPropertyNames$5>, 5
+  <class java.util.regex.PatternSyntaxException>, 5
+  <class java.util.ResourceBundle$1>, 5
+  <class java.util.ResourceBundle>, 5
+  <class java.util.ResourceBundle$BundleReference>, 5
+  <class java.util.ResourceBundle$RBClassLoader>, 5
+  <class java.util.ServiceConfigurationError>, 5
+  <class java.util.SimpleTimeZone>, 5
+  <class java.util.spi.CurrencyNameProvider>, 5
+  <class java.util.spi.TimeZoneNameProvider>, 5
+  <class java.util.TimeZone>, 5
+  <class java.util.TreeMap$Entry>, 5
+  <class java.util.Vector>, 5
+  <class java.util.zip.Deflater>, 5
+  <class java.util.zip.Inflater>, 5
+  <class java.util.zip.ZipError>, 5
+  <class java.util.zip.ZipException>, 5
+  <class java.util.zip.ZipFile$1>, 5
+  <class java.util.zip.ZipFile$ZipFileInputStream>, 5
+  <class javax.crypto.Cipher$r>, 5
+  <class javax.crypto.ExemptionMechanism>, 5
+  <class javax.crypto.ExemptionMechanismSpi>, 5
+  <class javax.crypto.NoSuchPaddingException>, 5
+  <class javax.crypto.spec.IvParameterSpec>, 5
+  <class javax.crypto.spec.PBEParameterSpec>, 5
+  <class javax.crypto.spec.RC2ParameterSpec>, 5
+  <class javax.crypto.spec.RC5ParameterSpec>, 5
+  <class javax.crypto.SunJCE_d>, 5
+  <class javax.crypto.SunJCE_e$o>, 5
+  <class javax.crypto.SunJCE_e$p>, 5
+  <class javax.crypto.SunJCE_e$q>, 5
+  <class javax.crypto.SunJCE_f>, 5
+  <class javax.crypto.SunJCE_g>, 5
+  <class javax.crypto.SunJCE_h>, 5
+  <class javax.crypto.SunJCE_k>, 5
+  <class javax.crypto.SunJCE_l>, 5
+  <class javax.security.auth.AuthPermission>, 5
+  <class javax.security.auth.PrivateCredentialPermission>, 5
+  <class javax.security.auth.Subject>, 5
+  <class javax.security.auth.x500.X500Principal>, 5
+  <class org.apache.lucene.analysis.standard.ParseException>, 5
+  <class org.apache.lucene.analysis.standard.TokenMgrError>, 5
+  <class org.apache.lucene.document.Field>, 5
+  <class org.apache.lucene.document.Field$Index>, 5
+  <class org.apache.lucene.document.Field$Store>, 5
+  <class org.apache.lucene.document.Field$TermVector>, 5
+  <class org.apache.lucene.index.CompoundFileReader$FileEntry>, 5
+  <class org.apache.lucene.index.CompoundFileWriter$FileEntry>, 5
+  <class org.apache.lucene.index.FieldInfo>, 5
+  <class org.apache.lucene.index.IndexWriter>, 5
+  <class org.apache.lucene.index.Posting>, 5
+  <class org.apache.lucene.index.SegmentInfo>, 5
+  <class org.apache.lucene.index.SegmentReader>, 5
+  <class org.apache.lucene.index.SegmentReader$Norm>, 5
+  <class org.apache.lucene.index.Term>, 5
+  <class org.apache.lucene.index.TermInfosReader>, 5
+  <class org.apache.lucene.index.TermVectorsWriter$TVField>, 5
+  <class org.apache.lucene.index.TermVectorsWriter$TVTerm>, 5
+  <class org.apache.lucene.store.FSDirectory>, 5
+  <class org.apache.lucene.store.FSIndexInput>, 5
+  <class org.apache.lucene.store.FSIndexOutput>, 5
+  <class org.apache.lucene.store.RAMDirectory$1>, 5
+  <class org.apache.lucene.store.RAMFile>, 5
+  <class sun.jkernel.BackgroundDownloader$1>, 5
+  <class sun.jkernel.BackgroundDownloader$2>, 5
+  <class sun.jkernel.Bundle$2>, 5
+  <class sun.jkernel.Bundle>, 5
+  <class sun.jkernel.DownloadManager$1>, 5
+  <class sun.jkernel.DownloadManager$2$1>, 5
+  <class sun.jkernel.DownloadManager$2$2>, 5
+  <class sun.jkernel.DownloadManager>, 5
+  <class sun.jkernel.KernelError>, 5
+  <class sun.misc.ASCIICaseInsensitiveComparator>, 5
+  <class sun.misc.CEFormatException>, 5
+  <class sun.misc.CEStreamExhausted>, 5
+  <class sun.misc.FDBigInt>, 5
+  <class sun.misc.FloatingDecimal$1>, 5
+  <class sun.misc.FloatingDecimal>, 5
+  <class sun.misc.FpUtils>, 5
+  <class sun.misc.InvalidJarIndexException>, 5
+  <class sun.misc.Launcher>, 5
+  <class sun.misc.Launcher$AppClassLoader>, 5
+  <class sun.misc.Launcher$ExtClassLoader>, 5
+  <class sun.misc.MetaIndex>, 5
+  <class sun.misc.ServiceConfigurationError>, 5
+  <class sun.misc.Signal>, 5
+  <class sun.misc.SoftCache$ValueCell>, 5
+  <class sun.misc.URLClassPath$FileLoader>, 5
+  <class sun.misc.URLClassPath$JarLoader>, 5
+  <class sun.misc.URLClassPath$Loader>, 5
+  <class sun.net.spi.nameservice.NameServiceDescriptor>, 5
+  <class sun.net.www.ParseUtil>, 5
+  <class sun.nio.cs.StandardCharsets>, 5
+  <class sun.nio.cs.StreamDecoder>, 5
+  <class sun.nio.cs.StreamEncoder>, 5
+  <class sun.nio.cs.Surrogate>, 5
+  <class sun.nio.cs.ThreadLocalCoders>, 5
+  <class sun.nio.cs.US_ASCII>, 5
+  <class sun.nio.cs.US_ASCII$Decoder>, 5
+  <class sun.security.ec.ECKeyFactory$1>, 5
+  <class sun.security.jca.ProviderConfig$3>, 5
+  <class sun.security.jca.ProviderConfig>, 5
+  <class sun.security.jca.ProviderList$1>, 5
+  <class sun.security.jca.ServiceId>, 5
+  <class sun.security.pkcs.ParsingException>, 5
+  <class sun.security.pkcs.PKCS9Attribute>, 5
+  <class sun.security.pkcs.SignerInfo>, 5
+  <class sun.security.provider.MD5>, 5
+  <class sun.security.provider.PolicyFile>, 5
+  <class sun.security.provider.PolicyFile$PolicyEntry>, 5
+  <class sun.security.provider.PolicyFile$SelfPermission>, 5
+  <class sun.security.provider.PolicyParser$GrantEntry>, 5
+  <class sun.security.provider.PolicyParser$ParsingException>, 5
+  <class sun.security.provider.PolicyParser$PermissionEntry>, 5
+  <class sun.security.provider.PolicyParser$PrincipalEntry>, 5
+  <class sun.security.provider.SHA>, 5
+  <class sun.security.provider.Sun>, 5
+  <class sun.security.util.DerInputBuffer>, 5
+  <class sun.security.util.DerValue>, 5
+  <class sun.security.util.ManifestDigester$Entry>, 5
+  <class sun.security.util.ObjectIdentifier>, 5
+  <class sun.security.util.Password>, 5
+  <class sun.security.util.PropertyExpander$ExpandException>, 5
+  <class sun.security.util.SignatureFileVerifier>, 5
+  <class sun.security.validator.ValidatorException>, 5
+  <class sun.security.x509.AVA>, 5
+  <class sun.security.x509.AVAKeyword>, 5
+  <class sun.security.x509.Extension>, 5
+  <class sun.security.x509.GeneralName>, 5
+  <class sun.security.x509.GeneralSubtree>, 5
+  <class sun.security.x509.OIDMap$OIDInfo>, 5
+  <class sun.security.x509.RDN>, 5
+  <class sun.security.x509.UnparseableExtension>, 5
+  <class sun.security.x509.X500Name>, 5
+  <class sun.security.x509.X509CertImpl>, 5
+  <class sun.security.x509.X509CRLEntryImpl>, 5
+  <class sun.security.x509.X509CRLImpl$X509IssuerSerial>, 5
+  <class sun.security.x509.X509Key>, 5
+  <class sun.text.normalizer.ICUData>, 5
+  <class sun.text.normalizer.RuleCharacterIterator>, 5
+  <class sun.text.normalizer.VersionInfo>, 5
+  <class sun.text.resources.FormatData>, 5
+  <class sun.text.resources.FormatData_en>, 5
+  <class sun.text.resources.FormatData_en_US>, 5
+  <class sun.text.SupplementaryCharacterData>, 5
+  <class sun.util.BuddhistCalendar>, 5
+  <class sun.util.calendar.BaseCalendar>, 5
+  <class sun.util.calendar.CalendarSystem>, 5
+  <class sun.util.calendar.Era>, 5
+  <class sun.util.calendar.LocalGregorianCalendar>, 5
+  <class sun.util.calendar.ZoneInfo>, 5
+  <class sun.util.LocaleServiceProviderPool>, 5
+  <class sun.util.LocaleServiceProviderPool$NullProvider>, 5
+  <class sun.util.resources.CalendarData>, 5
+  <class sun.util.resources.CalendarData_en>, 5
+  <class sun.util.resources.CurrencyNames>, 5
+  <class sun.util.resources.CurrencyNames_en_US>, 5
+  <class sun.util.TimeZoneNameUtility>, 5
+  com.sun.net.ssl.internal.ssl.Provider, 3
+  com.sun.net.ssl.internal.ssl.RSASignature, 3
+  dacapo.Benchmark, 3
+  dacapo.Benchmark.fileInScratch/new java.io.File/0, 1
+  dacapo.Benchmark.<init>/new java.io.File/0, 1
+  dacapo.Benchmark.<init>/new java.io.File/1, 1
+  <dacapo.Benchmark: int lineCount(java.io.File)>/new java.io.BufferedReader/0, 8
+  dacapo.Benchmark.sortArray/new java.util.ArrayList/0, 1
+  dacapo.Benchmark.unpackZipFileResource/new java.io.BufferedInputStream/0, 5
+  dacapo.Benchmark.unpackZipStream/new java.io.BufferedOutputStream/0, 1
+  dacapo.Benchmark.unpackZipStream/new java.io.File/0, 1
+  dacapo.Benchmark.unpackZipStream/new java.util.zip.ZipInputStream/0, 3
+  dacapo.Benchmark.validate/new java.io.File/0, 1
+  dacapo.Benchmark.validate/new java.io.File/1, 1
+  dacapo.Benchmark.validate/new java.io.File/2, 1
+  dacapo.FileDigest.getBinary/new java.io.BufferedInputStream/0, 5
+  dacapo.FileDigest.get/new java.io.File/0, 1
+  dacapo.FileDigest.get/new java.io.File/1, 1
+  dacapo.FileDigest.getText/new java.io.BufferedReader/0, 8
+  dacapo.luindex.LuindexHarness.indexDocs/new java.io.File/0, 1
+  dacapo.luindex.LuindexHarness.iterate/new java.io.File/0, 1
+  dacapo.luindex.LuindexHarness.iterate/new java.io.File/1, 1
+  dacapo.luindex.LuindexHarness.iterate/new org.apache.lucene.index.IndexWriter/0, 11
+  dacapo.luindex.LuindexHarness.postIteration/new java.io.File/0, 1
+  dacapo.luindex.LuindexHarness.preIteration/new java.io.File/0, 1
+  dacapo.TeeOutputStream.version/new java.io.File/0, 1
+  dacapo.TeePrintStream.<init>/new dacapo.TeeOutputStream/0, 1
+  dacapo.TestHarness.twoDecimalPlaces/new java.text.DecimalFormat/0, 14
+  <java.io.BufferedReader: java.lang.String readLine(boolean)>/new java.lang.String/0, 3
+  <java.io.ByteArrayOutputStream: java.lang.String toString(int)>/new java.lang.String/0, 3
+  <java.io.ByteArrayOutputStream: java.lang.String toString(java.lang.String)>/new java.lang.String/0, 3
+  <java.io.ByteArrayOutputStream: java.lang.String toString()>/new java.lang.String/0, 3
+  java.io.DataInputStream.readLine/new java.io.PushbackInputStream/0, 1
+  java.io.DeleteOnExitHook.runHooks/new java.io.File/0, 1
+  java.io.DeleteOnExitHook.runHooks/new java.util.ArrayList/0, 1
+  java.io.FileDescriptor.<clinit>/new java.io.FileDescriptor/0, 1
+  java.io.FileDescriptor.<clinit>/new java.io.FileDescriptor/1, 1
+  java.io.FileDescriptor.<clinit>/new java.io.FileDescriptor/2, 1
+  <java.io.FileDescriptor: void <init>(int)>/new java.util.concurrent.atomic.AtomicInteger/0, 1
+  <java.io.FileDescriptor: void <init>()>/new java.util.concurrent.atomic.AtomicInteger/0, 1
+  java.io.File.getAbsoluteFile/new java.io.File/0, 1
+  java.io.File.getCanonicalFile/new java.io.File/0, 1
+  java.io.File.getParentFile/new java.io.File/0, 1
+  java.io.FileInputStream.<clinit>/new java.lang.ThreadLocal/0, 2
+  <java.io.FileInputStream: void <init>(java.io.File)>/new java.io.FileDescriptor/0, 1
+  <java.io.FileInputStream: void <init>(java.lang.String)>/new java.io.File/0, 1
+  <java.io.File: java.io.File[] listFiles()>/new java.io.File/0, 1
+  <java.io.File: java.lang.String[] list(java.io.FilenameFilter)>/new java.util.ArrayList/0, 1
+  java.io.FileOutputStream.<clinit>/new java.lang.ThreadLocal/0, 2
+  <java.io.FileOutputStream: void <init>(java.io.File,boolean)>/new java.io.FileDescriptor/0, 1
+  java.io.FilePermissionCollection.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.io.FilePermissionCollection.<init>/new java.util.ArrayList/0, 1
+  java.io.File.toURI/new java.net.URI/0, 2
+  java.io.File.toURL/new java.net.URL/0, 2
+  java.io.PrintStream.init/new java.io.BufferedWriter/0, 3
+  <java.io.RandomAccessFile: void <init>(java.io.File,java.lang.String)>/new java.io.FileDescriptor/0, 1
+  <java.io.SequenceInputStream: void <init>(java.io.InputStream,java.io.InputStream)>/new java.util.Vector/0, 2
+  java.io.UnixFileSystem.canonicalize/new java.io.File/0, 1
+  java.io.UnixFileSystem.<init>/new java.io.ExpiringCache/0, 3
+  java.io.UnixFileSystem.<init>/new java.io.ExpiringCache/1, 3
+  java.io.UnixFileSystem.list/new java.lang.String, 3
+  <java.lang.AbstractStringBuilder: java.lang.AbstractStringBuilder append(double)>/new sun.misc.FloatingDecimal/0, 25
+  <java.lang.AbstractStringBuilder: java.lang.AbstractStringBuilder append(float)>/new sun.misc.FloatingDecimal/0, 25
+  <java.lang.AbstractStringBuilder: java.lang.String substring(int,int)>/new java.lang.String/0, 3
+  java.lang.ApplicationShutdownHooks.<clinit>/new java.util.IdentityHashMap/0, 6
+  java.lang.Character$UnicodeBlock.<clinit>/new java.util.HashMap/0, 5
+  java.lang.ClassLoader.checkPackageAccess/new java.lang.ClassLoader$1/0, 1
+  java.lang.ClassLoader.<clinit>/new java.util.Vector/0, 2
+  java.lang.ClassLoader.<clinit>/new java.util.Vector/1, 2
+  java.lang.ClassLoader.getResources/new sun.misc.CompoundEnumeration/0, 1
+  java.lang.ClassLoader.loadLibrary0/new java.lang.ClassLoader$NativeLibrary/0, 1
+  java.lang.ClassLoader.loadLibrary/new java.io.File/0, 1
+  java.lang.ClassLoader.loadLibrary/new java.io.File/1, 1
+  java.lang.ClassLoader.loadLibrary/new java.io.File/2, 1
+  java.lang.ClassLoader.loadLibrary/new java.io.File/3, 1
+  <java.lang.ClassLoader: void <init>(java.lang.Void,java.lang.ClassLoader)>/new java.util.HashMap/0, 5
+  <java.lang.ClassLoader: void <init>(java.lang.Void,java.lang.ClassLoader)>/new java.util.Hashtable/0, 6
+  <java.lang.ClassLoader: void <init>(java.lang.Void,java.lang.ClassLoader)>/new java.util.Vector/0, 2
+  <java.lang.ClassLoader: void <init>(java.lang.Void,java.lang.ClassLoader)>/new java.util.Vector/1, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/0, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/10, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/11, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/1, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/12, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/13, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/2, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/3, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/4, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/5, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/6, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/7, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/8, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.ConditionalSpecialCasing$Entry/9, 2
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.lang.Integer/0, 4
+  java.lang.ConditionalSpecialCasing.<clinit>/new java.util.Hashtable/0, 6
+  java.lang.ConditionalSpecialCasing.lookUpTable/new java.lang.Integer/0, 4
+  <java.lang.Double: java.lang.Double valueOf(java.lang.String)>/new java.lang.Double/0, 3
+  <java.lang.Double: java.lang.String toString(double)>/new sun.misc.FloatingDecimal/0, 25
+  java.lang.InheritableThreadLocal.createMap/new java.lang.ThreadLocal$ThreadLocalMap/0, 3
+  java.lang.Integer$IntegerCache.<clinit>/new java.lang.Integer/0, 4
+  <java.lang.Integer: java.lang.Integer valueOf(int)>/new java.lang.Integer/0, 4
+  <java.lang.Integer: java.lang.String toString(int,int)>/new java.lang.String/0, 3
+  <java.lang.Integer: java.lang.String toString(int)>/new java.lang.String/0, 3
+  java.lang.Integer.toUnsignedString/new java.lang.String/0, 3
+  <java.lang.Long: java.lang.Long valueOf(long)>/new java.lang.Long/0, 1
+  <java.lang.Long: java.lang.String toString(long,int)>/new java.lang.String/0, 3
+  <java.lang.Long: java.lang.String toString(long)>/new java.lang.String/0, 3
+  java.lang.Long$LongCache.<clinit>/new java.lang.Long/0, 1
+  java.lang.Long.toUnsignedString/new java.lang.String/0, 3
+  java.lang.Object, 3
+  java.lang.Package$1.run/new java.io.File/0, 1
+  java.lang.Package.<clinit>/new java.util.HashMap/0, 5
+  java.lang.Package.<clinit>/new java.util.HashMap/1, 5
+  java.lang.Package.<clinit>/new java.util.HashMap/2, 5
+  <java.lang.ProcessBuilder: void <init>(java.lang.String[])>/new java.util.ArrayList/0, 1
+  java.lang.ProcessEnvironment.<clinit>/new java.util.HashMap/0, 5
+  java.lang.ProcessEnvironment.emptyEnvironment/new java.util.HashMap/0, 5
+  <java.lang.ProcessEnvironment$Value: java.lang.ProcessEnvironment$Value valueOf(byte[])>/new java.lang.String/0, 3
+  <java.lang.ProcessEnvironment$Variable: java.lang.ProcessEnvironment$Variable valueOf(byte[])>/new java.lang.String/0, 3
+  java.lang.ProcessImpl.start/new java.lang.UNIXProcess/0, 2
+  java.lang.reflect.Proxy.<clinit>/new java.util.WeakHashMap/0, 5
+  java.lang.reflect.Proxy.<clinit>/new java.util.WeakHashMap/1, 5
+  <java.lang.Runtime: java.lang.Process exec(java.lang.String,java.lang.String[],java.io.File)>/new java.util.StringTokenizer/0, 4
+  java.lang.SecurityManager.checkDelete/new java.io.FilePermission/0, 7
+  java.lang.SecurityManager.checkExec/new java.io.File/0, 1
+  java.lang.SecurityManager.checkExec/new java.io.FilePermission/0, 7
+  java.lang.SecurityManager.checkExec/new java.io.FilePermission/1, 7
+  java.lang.SecurityManager.checkPropertiesAccess/new java.util.PropertyPermission/0, 5
+  java.lang.SecurityManager.checkPropertyAccess/new java.util.PropertyPermission/0, 5
+  java.lang.SecurityManager.getPackages/new java.util.StringTokenizer/0, 4
+  <java.lang.SecurityManager: void checkConnect(java.lang.String,int)>/new java.net.SocketPermission/0, 10
+  <java.lang.SecurityManager: void checkConnect(java.lang.String,int)>/new java.net.SocketPermission/1, 10
+  <java.lang.SecurityManager: void checkRead(java.lang.String)>/new java.io.FilePermission/0, 7
+  <java.lang.SecurityManager: void checkWrite(java.lang.String)>/new java.io.FilePermission/0, 7
+  java.lang.String, 3
+  java.lang.StringBuffer.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.lang.StringBuffer.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.lang.StringBuffer.<clinit>/new java.io.ObjectStreamField/2, 1
+  java.lang.StringBuffer.toString/new java.lang.String/0, 3
+  java.lang.StringBuilder.toString/new java.lang.String/0, 3
+  java.lang.StringCoding.<clinit>/new java.lang.ThreadLocal/0, 2
+  java.lang.StringCoding.<clinit>/new java.lang.ThreadLocal/1, 2
+  java.lang.String.concat/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String copyValueOf(char[],int,int)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String replace(char,char)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String substring(int,int)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String toLowerCase(java.util.Locale)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String toUpperCase(java.util.Locale)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String valueOf(char)>/new java.lang.String/0, 3
+  <java.lang.String: java.lang.String valueOf(char[])>/new java.lang.String/0, 3
+  java.lang.System.initializeSystemClass/new java.io.BufferedInputStream/0, 5
+  java.lang.System.initializeSystemClass/new java.io.BufferedOutputStream/0, 1
+  java.lang.System.initializeSystemClass/new java.io.BufferedOutputStream/1, 1
+  java.lang.System.setProperty/new java.util.PropertyPermission/0, 5
+  java.lang.Terminator.setup/new sun.misc.Signal/0, 1
+  java.lang.Terminator.setup/new sun.misc.Signal/1, 1
+  java.lang.Terminator.setup/new sun.misc.Signal/2, 1
+  java.lang.ThreadLocal.<clinit>/new java.util.concurrent.atomic.AtomicInteger/0, 1
+  java.lang.ThreadLocal.createInheritedMap/new java.lang.ThreadLocal$ThreadLocalMap/0, 3
+  java.lang.ThreadLocal.createMap/new java.lang.ThreadLocal$ThreadLocalMap/0, 3
+  java.lang.UNIXProcess$1$1$1.run/new java.io.BufferedInputStream/0, 5
+  java.lang.UNIXProcess$1$1$1.run/new java.io.BufferedOutputStream/0, 1
+  java.lang.UNIXProcess.<init>/new java.io.FileDescriptor/0, 1
+  java.lang.UNIXProcess.<init>/new java.io.FileDescriptor/1, 1
+  java.lang.UNIXProcess.<init>/new java.io.FileDescriptor/2, 1
+  java.lang.UNIXProcess.<init>/new java.lang.UNIXProcess$1/0, 2
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/0, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/10, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/11, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/1, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/12, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/13, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/14, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/15, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/16, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/17, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/18, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/19, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/20, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/21, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/2, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/22, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/23, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/24, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/25, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/3, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/4, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/5, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/6, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/7, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/8, 14
+  java.math.BigDecimal.<clinit>/new java.math.BigDecimal/9, 14
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/2, 1
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/3, 1
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/4, 1
+  java.math.BigInteger.<clinit>/new java.io.ObjectStreamField/5, 1
+  java.math.BigInteger.<clinit>/new java.math.BigInteger/0, 8
+  java.math.BigInteger.<clinit>/new java.math.BigInteger/1, 8
+  java.math.BigInteger.<clinit>/new java.math.BigInteger/2, 8
+  <java.math.BigInteger: java.lang.String toString(int)>/new java.math.MutableBigInteger/0, 2
+  <java.math.BigInteger: java.lang.String toString(int)>/new java.math.MutableBigInteger/1, 2
+  <java.math.BigInteger: java.lang.String toString(int)>/new java.math.MutableBigInteger/2, 2
+  <java.math.BigInteger: java.math.BigInteger multiply(java.math.BigInteger)>/new java.math.BigInteger/0, 8
+  <java.math.BigInteger: java.math.BigInteger valueOf(long)>/new java.math.BigInteger/0, 8
+  java.math.BigInteger.negate/new java.math.BigInteger/0, 8
+  java.math.MutableBigInteger.<clinit>/new java.math.MutableBigInteger/0, 2
+  java.math.MutableBigInteger.divideMagnitude/new java.math.MutableBigInteger/0, 2
+  <java.math.MutableBigInteger: java.math.MutableBigInteger divide(java.math.MutableBigInteger,java.math.MutableBigInteger)>/new java.math.MutableBigInteger/0, 2
+  <java.math.MutableBigInteger: java.math.MutableBigInteger divide(java.math.MutableBigInteger,java.math.MutableBigInteger)>/new java.math.MutableBigInteger/1, 2
+  <java.math.MutableBigInteger: java.math.MutableBigInteger divide(java.math.MutableBigInteger,java.math.MutableBigInteger)>/new java.math.MutableBigInteger/2, 2
+  <java.math.MutableBigInteger: java.math.MutableBigInteger divide(java.math.MutableBigInteger,java.math.MutableBigInteger)>/new java.math.MutableBigInteger/3, 2
+  <java.math.MutableBigInteger: java.math.MutableBigInteger divide(java.math.MutableBigInteger,java.math.MutableBigInteger)>/new java.math.MutableBigInteger/4, 2
+  java.math.MutableBigInteger.toBigInteger/new java.math.BigInteger/0, 8
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/0, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/1, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/2, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/3, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/4, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/5, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/6, 1
+  java.math.RoundingMode.<clinit>/new java.math.RoundingMode/7, 1
+  java.net.InetAddress$Cache.put/new java.util.LinkedList/0, 1
+  java.net.InetAddress.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.net.InetAddress.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.net.InetAddress.<clinit>/new java.io.ObjectStreamField/2, 1
+  java.net.InetAddress.<clinit>/new java.util.HashMap/0, 5
+  java.net.InetAddress.<init>/new java.net.InetAddress$InetAddressHolder/0, 2
+  <java.net.InetAddress: java.net.InetAddress[] getAllByName(java.lang.String,java.net.InetAddress)>/new java.net.Inet4Address/0, 2
+  <java.net.InetAddress: java.net.InetAddress[] getAllByName(java.lang.String,java.net.InetAddress)>/new java.net.Inet6Address/0, 4
+  <java.net.InetAddress: java.net.InetAddress[] getAllByName(java.lang.String,java.net.InetAddress)>/new java.net.Inet6Address/1, 4
+  <java.net.InetAddress: java.net.InetAddress getByAddress(java.lang.String,byte[])>/new java.net.Inet4Address/0, 2
+  <java.net.InetAddress: java.net.InetAddress getByAddress(java.lang.String,byte[])>/new java.net.Inet4Address/1, 2
+  <java.net.InetAddress: java.net.InetAddress getByAddress(java.lang.String,byte[])>/new java.net.Inet6Address/0, 4
+  java.net.SocketPermissionCollection.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.net.SocketPermissionCollection.<init>/new java.util.ArrayList/0, 1
+  java.net.SocketPermission.getHost/new java.util.StringTokenizer/0, 4
+  java.net.URI.checkPath/new java.net.URISyntaxException/0, 1
+  java.net.URI.toURL/new java.net.URL/0, 2
+  <java.net.URI: void <init>(java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>/new java.net.URI$Parser/0, 1
+  <java.net.URI: void <init>(java.lang.String)>/new java.net.URI$Parser/0, 1
+  java.net.URLClassLoader.getPermissions/new java.io.FilePermission/0, 7
+  java.net.URLClassLoader.getPermissions/new java.io.FilePermission/1, 7
+  java.net.URLClassLoader.getPermissions/new java.net.SocketPermission/0, 10
+  java.net.URL.<clinit>/new java.util.Hashtable/0, 6
+  java.net.URLConnection.<clinit>/new java.util.Hashtable/0, 6
+  java.net.URL.getURLStreamHandler/new java.util.StringTokenizer/0, 4
+  java.nio.charset.Charset.<clinit>/new java.lang.ThreadLocal/0, 2
+  java.nio.charset.CoderResult$1.create/new java.nio.charset.CoderResult/0, 7
+  java.nio.charset.CoderResult$2.create/new java.nio.charset.CoderResult/0, 7
+  java.nio.charset.CoderResult$Cache.get/new java.lang.Integer/0, 4
+  java.nio.charset.CoderResult$Cache.get/new java.util.HashMap/0, 5
+  java.nio.charset.CoderResult.<clinit>/new java.nio.charset.CoderResult/0, 7
+  java.nio.charset.CoderResult.<clinit>/new java.nio.charset.CoderResult/1, 7
+  java.nio.charset.CoderResult.throwException/new java.nio.charset.MalformedInputException/0, 1
+  java.nio.charset.CoderResult.throwException/new java.nio.charset.UnmappableCharacterException/0, 1
+  java.nio.HeapCharBuffer.toString/new java.lang.String/0, 3
+  <java.security.AccessControlContext: void <init>(java.security.ProtectionDomain[])>/new java.util.ArrayList/0, 1
+  java.security.BasicPermissionCollection.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.security.BasicPermissionCollection.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.security.BasicPermissionCollection.<clinit>/new java.io.ObjectStreamField/2, 1
+  java.security.BasicPermissionCollection.<init>/new java.util.HashMap/0, 5
+  java.security.cert.CertStoreParameters, 3
+  java.security.cert.PKIXParameters.clone/new java.util.ArrayList/0, 1
+  java.security.cert.PKIXParameters.clone/new java.util.ArrayList/1, 1
+  <java.security.cert.PKIXParameters: void <init>(java.util.Set)>/new java.util.ArrayList/0, 1
+  <java.security.cert.PKIXParameters: void <init>(java.util.Set)>/new java.util.ArrayList/1, 1
+  java.security.CodeSource.getCertificates/new java.util.ArrayList/0, 1
+  java.security.CodeSource.matchLocation/new java.net.SocketPermission/0, 10
+  java.security.CodeSource.matchLocation/new java.net.SocketPermission/1, 10
+  java.security.MessageDigest.toString/new java.io.ByteArrayOutputStream/0, 1
+  java.security.Permissions.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.security.Permissions.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.security.PermissionsHash.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.security.PermissionsHash.<init>/new java.util.HashMap/0, 5
+  java.security.Permissions.<init>/new java.util.HashMap/0, 5
+  java.security.Policy.getPolicyNoCheck/new sun.security.provider.PolicyFile/0, 1
+  java.security.Policy$Parameters, 3
+  java.security.ProtectionDomain$2$1.<init>/new java.util.WeakHashMap/0, 5
+  java.security.ProtectionDomain.mergePermissions/new java.util.ArrayList/0, 1
+  java.security.ProtectionDomain.mergePermissions/new java.util.ArrayList/1, 1
+  java.security.Provider.<clinit>/new java.util.HashMap/0, 5
+  java.security.Provider$Service.addAlias/new java.util.ArrayList/0, 1
+  java.security.Provider$Service.addAttribute/new java.util.HashMap/0, 5
+  java.security.Provider$Service.hasKeyAttributes/new java.util.ArrayList/0, 1
+  <java.security.SecureClassLoader: void <init>(java.lang.ClassLoader)>/new java.util.HashMap/0, 5
+  java.security.SecureRandom.getDefaultPRNG/new sun.security.provider.SecureRandom/0, 2
+  <java.security.SecureRandom: java.security.SecureRandom getInstance(java.lang.String)>/new java.security.SecureRandom/0, 1
+  java.security.Security.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.security.Security.initialize/new java.io.BufferedInputStream/0, 5
+  java.security.Security.initialize/new java.io.BufferedInputStream/1, 5
+  java.security.Security.initialize/new java.io.File/0, 1
+  java.security.Security.initialize/new java.net.URL/0, 2
+  java.security.Security.initialize/new java.net.URL/1, 2
+  java.security.Security.securityPropFile/new java.io.File/0, 1
+  java.security.Signature$CipherAdapter.engineInitVerify/new java.io.ByteArrayOutputStream/0, 1
+  java.security.Signature.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.security.Signature.getInstanceRSA/new java.security.Signature$Delegate/0, 4
+  <java.security.Signature: java.security.Signature getInstance(java.lang.String)>/new java.security.Signature$Delegate/0, 4
+  <java.security.Signature: java.security.Signature getInstance(sun.security.jca.GetInstance$Instance,java.lang.String)>/new java.security.Signature$Delegate/0, 4
+  java.security.Timestamp.getTimestamp/new java.util.Date/0, 1
+  java.security.Timestamp.<init>/new java.util.Date/0, 1
+  java.security.UnresolvedPermissionCollection.add/new java.util.ArrayList/0, 1
+  java.security.UnresolvedPermissionCollection.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.security.UnresolvedPermissionCollection.elements/new java.util.ArrayList/0, 1
+  java.security.UnresolvedPermissionCollection.<init>/new java.util.HashMap/0, 5
+  java.security.UnresolvedPermission.<init>/new java.util.ArrayList/0, 1
+  java.text.AttributedCharacterIterator$Attribute.<clinit>/new java.util.HashMap/0, 5
+  java.text.AttributedString.addAttributeRunData/new java.util.Vector/0, 2
+  java.text.AttributedString.addAttributeRunData/new java.util.Vector/1, 2
+  java.text.AttributedString$AttributedStringIterator.getAttributes/new java.text.AttributedString$AttributeMap/0, 3
+  java.text.AttributedString$AttributedStringIterator.getAttributes/new java.util.Hashtable/0, 6
+  <java.text.AttributedString: java.text.AttributedCharacterIterator getIterator(java.text.AttributedCharacterIterator$Attribute[],int,int)>/new java.text.AttributedString$AttributedStringIterator/0, 6
+  java.text.AttributedString.setAttributes/new java.util.Vector/0, 2
+  java.text.AttributedString.setAttributes/new java.util.Vector/1, 2
+  java.text.BreakDictionary$1.run/new java.io.BufferedInputStream/0, 5
+  java.text.BreakDictionary.readDictionaryFile/new sun.text.CompactByteArray/0, 6
+  java.text.BreakIterator.createBreakInstance/new java.text.DictionaryBasedBreakIterator/0, 2
+  java.text.BreakIterator.createBreakInstance/new java.text.RuleBasedBreakIterator/0, 5
+  <java.text.BreakIterator: void setText(java.lang.String)>/new java.text.StringCharacterIterator/0, 3
+  java.text.CharacterIteratorFieldDelegate.getIterator/new java.text.AttributedString/0, 3
+  java.text.CharacterIteratorFieldDelegate.getIterator/new java.text.AttributedString/1, 3
+  java.text.CharacterIteratorFieldDelegate.<init>/new java.util.ArrayList/0, 1
+  <java.text.CharacterIteratorFieldDelegate: void formatted(java.text.Format$Field,java.lang.Object,int,int,java.lang.StringBuffer)>/new java.text.AttributedString/0, 3
+  <java.text.CharacterIteratorFieldDelegate: void formatted(java.text.Format$Field,java.lang.Object,int,int,java.lang.StringBuffer)>/new java.text.AttributedString/1, 3
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/0, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/10, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/1, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/11, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/12, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/13, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/14, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/15, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/16, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/17, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/2, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/3, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/4, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/5, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/6, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/7, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/8, 1
+  java.text.DateFormat$Field.<clinit>/new java.text.DateFormat$Field/9, 1
+  java.text.DateFormat$Field.<clinit>/new java.util.HashMap/0, 5
+  java.text.DateFormat.get/new java.text.SimpleDateFormat/0, 6
+  java.text.DateFormat.get/new java.text.SimpleDateFormat/1, 6
+  <java.text.DateFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/new java.util.Date/0, 1
+  java.text.DateFormatSymbols, 3
+  java.text.DateFormatSymbols.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.text.DateFormatSymbols.copyMembers/new java.lang.String/0, 3
+  java.text.DateFormatSymbols.getCachedInstance/new java.text.DateFormatSymbols/0, 1
+  java.text.DecimalFormat.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.text.DecimalFormat.formatToCharacterIterator/new java.text.CharacterIteratorFieldDelegate/0, 1
+  java.text.DecimalFormat.getBigDecimalMultiplier/new java.math.BigDecimal/0, 14
+  <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/new java.text.FieldPosition/0, 3
+  <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/new java.text.FieldPosition/1, 3
+  <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/new java.util.ArrayList/0, 1
+  <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/new java.util.ArrayList/1, 1
+  java.text.DecimalFormatSymbols.<clinit>/new java.util.Hashtable/0, 6
+  <java.text.DecimalFormatSymbols: java.text.DecimalFormatSymbols getInstance(java.util.Locale)>/new java.text.DecimalFormatSymbols/0, 2
+  <java.text.DecimalFormat: void <init>(java.lang.String,java.text.DecimalFormatSymbols)>/new java.text.DigitList/0, 3
+  <java.text.DecimalFormat: void <init>()>/new java.text.DecimalFormatSymbols/0, 2
+  <java.text.DecimalFormat: void <init>()>/new java.text.DigitList/0, 3
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.lang.Integer/0, 4
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.lang.Integer/1, 4
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.lang.Integer/2, 4
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.lang.Integer/3, 4
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.lang.Integer/4, 4
+  java.text.DictionaryBasedBreakIterator.divideUpDictionaryRange/new java.util.Vector/0, 2
+  java.text.DictionaryBasedBreakIterator.<init>/new java.text.BreakDictionary/0, 3
+  <java.text.Format: java.lang.String format(java.lang.Object)>/new java.text.FieldPosition/0, 3
+  <java.text.Format: java.text.AttributedCharacterIterator createAttributedCharacterIterator(java.lang.String,java.text.AttributedCharacterIterator$Attribute,java.lang.Object)>/new java.text.AttributedString/0, 3
+  <java.text.Format: java.text.AttributedCharacterIterator createAttributedCharacterIterator(java.lang.String)>/new java.text.AttributedString/0, 3
+  <java.text.Format: java.text.AttributedCharacterIterator createAttributedCharacterIterator(java.text.AttributedCharacterIterator,java.text.AttributedCharacterIterator$Attribute,java.lang.Object)>/new java.text.AttributedString/0, 3
+  <java.text.Format: java.text.AttributedCharacterIterator createAttributedCharacterIterator(java.text.AttributedCharacterIterator[])>/new java.text.AttributedString/0, 3
+  java.text.MessageFormat.formatToCharacterIterator/new java.util.ArrayList/0, 1
+  <java.text.MessageFormat: java.lang.String format(java.lang.String,java.lang.Object[])>/new java.text.MessageFormat/0, 2
+  java.text.MessageFormat.makeFormat/new java.text.DecimalFormat/0, 14
+  java.text.MessageFormat.makeFormat/new java.text.SimpleDateFormat/0, 6
+  java.text.MessageFormat.makeFormat/new java.text.SimpleDateFormat/1, 6
+  java.text.MessageFormat.subformat/new java.lang.Integer/0, 4
+  java.text.MessageFormat.subformat/new java.lang.Integer/1, 4
+  java.text.MessageFormat.subformat/new java.text.MessageFormat/0, 2
+  java.text.NumberFormat.<clinit>/new java.util.Hashtable/0, 6
+  java.text.NumberFormat$Field.<clinit>/new java.util.HashMap/0, 5
+  <java.text.NumberFormat: java.text.NumberFormat getInstance(java.util.Locale,int)>/new java.text.DecimalFormat/0, 14
+  java.text.RuleBasedBreakIterator$1.run/new java.io.BufferedInputStream/0, 5
+  java.text.RuleBasedBreakIterator.getText/new java.text.StringCharacterIterator/0, 3
+  java.text.RuleBasedBreakIterator.readTables/new sun.text.CompactByteArray/0, 6
+  java.text.RuleBasedBreakIterator.setText/new java.text.RuleBasedBreakIterator$SafeCharIterator/0, 3
+  java.text.SimpleDateFormat.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.text.SimpleDateFormat.<clinit>/new java.util.concurrent.ConcurrentHashMap/1, 7
+  java.text.SimpleDateFormat.formatToCharacterIterator/new java.text.CharacterIteratorFieldDelegate/0, 1
+  java.text.SimpleDateFormat.formatToCharacterIterator/new java.util.Date/0, 1
+  java.util.AbstractList.iterator/new java.util.AbstractList$Itr/0, 3
+  java.util.AbstractList.subList/new java.util.SubList/0, 3
+  java.util.BitSet.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.util.Calendar.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.util.Calendar.createCalendar/new java.util.GregorianCalendar/0, 11
+  java.util.Calendar.createCalendar/new java.util.JapaneseImperialCalendar/0, 10
+  java.util.Calendar.createCalendar/new sun.util.BuddhistCalendar/0, 2
+  java.util.Calendar.getTime/new java.util.Date/0, 1
+  java.util.concurrent.ConcurrentHashMap$Segment.put/new java.util.concurrent.ConcurrentHashMap$HashEntry/0, 1
+  java.util.concurrent.ConcurrentHashMap$Segment.rehash/new java.util.concurrent.ConcurrentHashMap$HashEntry/0, 1
+  java.util.concurrent.ConcurrentHashMap$Segment.remove/new java.util.concurrent.ConcurrentHashMap$HashEntry/0, 1
+  <java.util.concurrent.ConcurrentHashMap: void <init>(int,float,int)>/new java.util.concurrent.ConcurrentHashMap$Segment/0, 3
+  <java.util.concurrent.Executors: java.util.concurrent.ExecutorService newFixedThreadPool(int,java.util.concurrent.ThreadFactory)>/new java.util.concurrent.LinkedBlockingQueue/0, 1
+  <java.util.concurrent.Executors: java.util.concurrent.ExecutorService newFixedThreadPool(int,java.util.concurrent.ThreadFactory)>/new java.util.concurrent.ThreadPoolExecutor/0, 9
+  <java.util.concurrent.FutureTask: void <init>(java.lang.Runnable,java.lang.Object)>/new java.util.concurrent.FutureTask$Sync/0, 3
+  <java.util.concurrent.LinkedBlockingQueue: void <init>(int)>/new java.util.concurrent.atomic.AtomicInteger/0, 1
+  java.util.concurrent.locks.AbstractQueuedSynchronizer.addWaiter/new java.util.concurrent.locks.AbstractQueuedSynchronizer$Node/0, 5
+  java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.addConditionWaiter/new java.util.concurrent.locks.AbstractQueuedSynchronizer$Node/0, 5
+  java.util.concurrent.locks.AbstractQueuedSynchronizer.enq/new java.util.concurrent.locks.AbstractQueuedSynchronizer$Node/0, 5
+  java.util.concurrent.locks.AbstractQueuedSynchronizer$Node.<clinit>/new java.util.concurrent.locks.AbstractQueuedSynchronizer$Node/0, 5
+  java.util.concurrent.locks.ReentrantLock$Sync.newCondition/new java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject/0, 2
+  java.util.Currency.<clinit>/new java.util.HashMap/0, 5
+  java.util.CurrencyData, 3
+  <java.util.Currency: java.util.Currency getInstance(java.lang.String,int)>/new java.util.Currency/0, 12
+  java.util.Date, 3
+  <java.util.Date: sun.util.calendar.BaseCalendar$Date normalize(sun.util.calendar.BaseCalendar$Date)>/new java.util.GregorianCalendar/0, 11
+  java.util.GregorianCalendar, 3
+  java.util.HashMap.addEntry/new java.util.HashMap$Entry/0, 1
+  java.util.HashMap.createEntry/new java.util.HashMap$Entry/0, 1
+  <java.util.HashSet: void <init>(int)>/new java.util.HashMap/0, 5
+  <java.util.HashSet: void <init>(java.util.Collection)>/new java.util.HashMap/0, 5
+  <java.util.HashSet: void <init>()>/new java.util.HashMap/0, 5
+  java.util.Hashtable.getEnumeration/new java.util.Hashtable$Enumerator/0, 3
+  java.util.Hashtable.getIterator/new java.util.Hashtable$Enumerator/0, 3
+  java.util.Hashtable.put/new java.util.Hashtable$Entry/0, 1
+  java.util.JapaneseImperialCalendar.<clinit>/new sun.util.calendar.Era/0, 1
+  <java.util.jar.Attributes: java.lang.String getValue(java.lang.String)>/new java.util.jar.Attributes$Name/0, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/0, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/10, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/1, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/11, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/12, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/13, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/14, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/15, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/16, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/2, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/3, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/4, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/5, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/6, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/7, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/8, 1
+  java.util.jar.Attributes$Name.<clinit>/new java.util.jar.Attributes$Name/9, 1
+  java.util.jar.Attributes.putValue/new java.util.jar.Attributes$Name/0, 1
+  java.util.jar.Attributes.read/new java.lang.String/0, 3
+  java.util.jar.Attributes.read/new java.lang.String/1, 3
+  java.util.jar.Attributes.read/new java.lang.String/2, 3
+  <java.util.jar.Attributes: void <init>(int)>/new java.util.HashMap/0, 5
+  java.util.jar.JarFile.getManifestFromReference/new java.io.ByteArrayInputStream/0, 3
+  <java.util.jar.JarFile: void <init>(java.lang.String)>/new java.io.File/0, 1
+  java.util.jar.JarInputStream.checkManifest/new java.io.BufferedInputStream/0, 5
+  java.util.jar.JarInputStream.checkManifest/new java.io.ByteArrayInputStream/0, 3
+  java.util.jar.JarInputStream.getBytes/new java.io.ByteArrayOutputStream/0, 1
+  java.util.jar.JarVerifier.<init>/new java.io.ByteArrayOutputStream/0, 1
+  java.util.jar.JarVerifier.<init>/new java.util.ArrayList/0, 1
+  java.util.jar.JarVerifier.<init>/new java.util.ArrayList/1, 1
+  java.util.jar.JarVerifier.<init>/new java.util.HashMap/0, 5
+  java.util.jar.JarVerifier.<init>/new java.util.HashMap/1, 5
+  java.util.jar.JarVerifier.<init>/new java.util.Hashtable/0, 6
+  java.util.jar.JarVerifier.<init>/new java.util.Hashtable/1, 6
+  java.util.jar.JarVerifier.<init>/new java.util.Hashtable/2, 6
+  java.util.jar.JarVerifier.mapSignersToCertArray/new java.util.ArrayList/0, 1
+  java.util.jar.JarVerifier.processEntry/new java.util.ArrayList/0, 1
+  java.util.jar.Manifest.parseName/new java.lang.String/0, 3
+  java.util.jar.Manifest.read/new java.lang.String/0, 3
+  java.util.jar.Manifest.read/new java.util.jar.Manifest$FastInputStream/0, 2
+  <java.util.jar.Manifest: void <init>(java.io.InputStream)>/new java.util.HashMap/0, 5
+  <java.util.jar.Manifest: void <init>()>/new java.util.HashMap/0, 5
+  java.util.LinkedList.listIterator/new java.util.LinkedList$ListItr/0, 2
+  java.util.ListResourceBundle.loadLookup/new java.util.HashMap/0, 5
+  java.util.Locale.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.util.Locale.createSingleton/new java.util.Locale/0, 5
+  java.util.Locale.getInstance/new java.util.Locale/0, 5
+  java.util.Locale.toLowerCase/new java.lang.String/0, 3
+  java.util.Locale.toUpperCase/new java.lang.String/0, 3
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/0, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/1, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/2, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/3, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/4, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/5, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/6, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/7, 1
+  java.util.logging.Level.<clinit>/new java.util.logging.Level/8, 1
+  java.util.logging.Level.findLevel/new java.util.logging.Level/0, 1
+  java.util.logging.Level$KnownLevel.add/new java.util.ArrayList/0, 1
+  java.util.logging.Level$KnownLevel.add/new java.util.ArrayList/1, 1
+  java.util.logging.Level$KnownLevel.<clinit>/new java.util.HashMap/0, 5
+  java.util.logging.Level$KnownLevel.<clinit>/new java.util.HashMap/1, 5
+  java.util.logging.Level$KnownLevel.<init>/new java.util.logging.Level/0, 1
+  java.util.logging.Logger.addHandler/new java.util.ArrayList/0, 1
+  java.util.logging.Logger.<clinit>/new java.util.logging.Logger/0, 2
+  java.util.logging.Logger.doSetParent/new java.util.ArrayList/0, 1
+  <java.util.logging.Logger: void log(java.util.logging.Level,java.lang.String)>/new java.util.logging.LogRecord/0, 2
+  java.util.logging.LogManager$1.run/new java.util.logging.LogManager/0, 1
+  java.util.logging.LogManager.contexts/new java.util.ArrayList/0, 1
+  java.util.logging.LogManager.demandLogger/new java.util.logging.Logger/0, 2
+  java.util.logging.LogManager.<init>/new java.beans.PropertyChangeSupport/0, 1
+  java.util.logging.LogManager$LoggerContext.getNode/new java.util.HashMap/0, 5
+  <java.util.logging.LogManager$LoggerContext: void <init>()>/new java.util.Hashtable/0, 6
+  java.util.logging.LogManager.parseClassNames/new java.util.Vector/0, 2
+  java.util.logging.LogManager$SystemLoggerContext.demandLogger/new java.util.logging.Logger/0, 2
+  <java.util.logging.LogManager: void readConfiguration()>/new java.io.BufferedInputStream/0, 5
+  <java.util.logging.LogManager: void readConfiguration()>/new java.io.File/0, 1
+  <java.util.logging.LogManager: void readConfiguration()>/new java.io.File/1, 1
+  java.util.logging.LogRecord.<clinit>/new java.lang.ThreadLocal/0, 2
+  java.util.logging.LogRecord.<init>/new java.lang.Integer/0, 4
+  java.util.Properties.loadConvert/new java.lang.String/0, 3
+  java.util.Properties.propertyNames/new java.util.Hashtable/0, 6
+  <java.util.Properties: void load(java.io.InputStream)>/new java.util.Properties$LineReader/0, 2
+  java.util.PropertyPermissionCollection.add/new java.util.PropertyPermission/0, 5
+  java.util.PropertyPermissionCollection.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.util.PropertyPermissionCollection.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.util.PropertyPermissionCollection.<init>/new java.util.HashMap/0, 5
+  <java.util.PropertyResourceBundle: void <init>(java.io.InputStream)>/new java.util.HashMap/0, 5
+  java.util.Random.<clinit>/new java.io.ObjectStreamField/0, 1
+  java.util.Random.<clinit>/new java.io.ObjectStreamField/1, 1
+  java.util.Random.<clinit>/new java.io.ObjectStreamField/2, 1
+  java.util.regex.Pattern$BnM.optimize/new java.util.regex.Pattern$BnMS/0, 1
+  java.util.regex.Pattern.caseInsensitiveRangeFor/new java.util.regex.Pattern$3/0, 2
+  java.util.regex.Pattern.caseInsensitiveRangeFor/new java.util.regex.Pattern$4/0, 2
+  java.util.regex.Pattern$CharPropertyNames$1.make/new java.util.regex.Pattern$Category/0, 1
+  java.util.regex.Pattern$CharPropertyNames$3.make/new java.util.regex.Pattern$Ctype/0, 1
+  java.util.regex.Pattern$CharPropertyNames.<clinit>/new java.util.HashMap/0, 5
+  java.util.regex.Pattern$CharPropertyNames.defCategory/new java.util.regex.Pattern$CharPropertyNames$1/0, 1
+  java.util.regex.Pattern$CharPropertyNames.defCtype/new java.util.regex.Pattern$CharPropertyNames$3/0, 1
+  java.util.regex.Pattern$CharPropertyNames.defRange/new java.util.regex.Pattern$CharPropertyNames$2/0, 2
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/0, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/1, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/2, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/3, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/4, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/5, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/6, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/7, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Curly/8, 3
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Ques/0, 1
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Ques/1, 1
+  java.util.regex.Pattern.closure/new java.util.regex.Pattern$Ques/2, 1
+  java.util.regex.Pattern.createGroup/new java.util.regex.Pattern$GroupHead/0, 1
+  java.util.regex.Pattern.createGroup/new java.util.regex.Pattern$GroupTail/0, 2
+  java.util.regex.Pattern.error/new java.util.regex.PatternSyntaxException/0, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Bound/0, 5
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Bound/1, 5
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/0, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/1, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/2, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/3, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/4, 1
+  java.util.regex.Pattern.escape/new java.util.regex.Pattern$Ctype/5, 1
+  java.util.regex.Pattern.expr/new java.util.regex.Pattern$Branch/0, 1
+  java.util.regex.Pattern.family/new java.lang.String/0, 3
+  java.util.regex.Pattern.family/new java.lang.String/1, 3
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$Behind/0, 2
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$Branch/0, 1
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$Branch/1, 1
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$GroupCurly/0, 5
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$Loop/0, 4
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$NotBehind/0, 2
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$Ques/0, 1
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$TreeInfo/0, 2
+  java.util.regex.Pattern.group0/new java.util.regex.Pattern$TreeInfo/1, 2
+  java.util.regex.Pattern.<init>/new java.util.regex.Pattern$Start/0, 1
+  <java.util.regex.Pattern: java.lang.String[] split(java.lang.CharSequence,int)>/new java.util.ArrayList/0, 1
+  <java.util.regex.Pattern: java.util.regex.Pattern compile(java.lang.String)>/new java.util.regex.Pattern/0, 18
+  java.util.regex.Pattern.matcher/new java.util.regex.Matcher/0, 10
+  java.util.regex.Pattern.newSingle/new java.util.regex.Pattern$Single/0, 1
+  java.util.regex.Pattern.newSingle/new java.util.regex.Pattern$SingleI/0, 2
+  java.util.regex.Pattern.newSingle/new java.util.regex.Pattern$SingleS/0, 1
+  java.util.regex.Pattern.newSingle/new java.util.regex.Pattern$SingleU/0, 1
+  java.util.regex.Pattern.rangeFor/new java.util.regex.Pattern$2/0, 2
+  java.util.regex.Pattern.ref/new java.util.regex.Pattern$BackRef/0, 1
+  java.util.regex.Pattern.ref/new java.util.regex.Pattern$CIBackRef/0, 1
+  java.util.regex.Pattern$Start.<init>/new java.util.regex.Pattern$TreeInfo/0, 2
+  <java.util.regex.Pattern: void compile()>/new java.util.regex.Pattern$Start/0, 1
+  <java.util.regex.Pattern: void compile()>/new java.util.regex.Pattern$Start/1, 1
+  java.util.ResourceBundle.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.util.ResourceBundle$Control.getCandidateLocales/new java.util.ArrayList/0, 1
+  java.util.ResourceBundle.getBundleImpl/new java.util.ResourceBundle$CacheKey/0, 1
+  java.util.ServiceLoader.parse/new java.io.BufferedReader/0, 8
+  java.util.ServiceLoader.parse/new java.util.ArrayList/0, 1
+  java.util.SubList.listIterator/new java.util.SubList$1/0, 1
+  java.util.TimeZone$DisplayNames.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  java.util.TimeZone.getDisplayNames/new java.util.concurrent.ConcurrentHashMap/0, 7
+  <java.util.TimeZone: java.util.TimeZone getTimeZone(java.lang.String,boolean)>/new sun.util.calendar.ZoneInfo/0, 9
+  java.util.TreeSet.clone/new java.util.TreeMap/0, 2
+  <java.util.TreeSet: void <init>()>/new java.util.TreeMap/0, 2
+  java.util.Vector.elements/new java.util.Vector$1/0, 1
+  java.util.WeakHashMap.put/new java.util.WeakHashMap$Entry/0, 1
+  java.util.zip.GZIPInputStream.readTrailer/new java.io.ByteArrayInputStream/0, 3
+  <java.util.zip.GZIPInputStream: void <init>(java.io.InputStream,int)>/new java.util.zip.CRC32/0, 1
+  <java.util.zip.GZIPInputStream: void <init>(java.io.InputStream,int)>/new java.util.zip.Inflater/0, 2
+  <java.util.zip.ZipFile$2: java.util.zip.ZipEntry nextElement()>/new java.util.zip.ZipEntry/0, 3
+  java.util.zip.ZipFile.entries/new java.util.zip.ZipFile$2/0, 1
+  java.util.zip.ZipFile.getInflater/new java.util.zip.Inflater/0, 2
+  <java.util.zip.ZipFile: java.util.zip.ZipEntry getEntry(java.lang.String)>/new java.util.zip.ZipEntry/0, 3
+  <java.util.zip.ZipFile: void <init>(java.io.File,int)>/new java.util.Vector/0, 2
+  java.util.zip.ZipInputStream.createZipEntry/new java.util.zip.ZipEntry/0, 3
+  java.util.zip.ZipInputStream.getFileName/new java.lang.String/0, 3
+  java.util.zip.ZipInputStream.getFileName/new java.lang.String/1, 3
+  java.util.zip.ZipInputStream.getFileName/new java.lang.String/2, 3
+  java.util.zip.ZipInputStream.getFileName/new java.lang.String/3, 3
+  java.util.zip.ZipInputStream.getUTF8String/new java.lang.String/0, 3
+  java.util.zip.ZipInputStream.<init>/new java.io.PushbackInputStream/0, 1
+  java.util.zip.ZipInputStream.<init>/new java.util.zip.CRC32/0, 1
+  java.util.zip.ZipInputStream.<init>/new java.util.zip.Inflater/0, 2
+  <javax.crypto.Cipher: boolean b(javax.crypto.CipherSpi,java.security.Key,java.security.spec.AlgorithmParameterSpec)>/new javax.crypto.SunJCE_f/0, 1
+  <javax.crypto.Cipher: java.lang.String[] a(java.lang.String)>/new java.util.StringTokenizer/0, 4
+  <javax.crypto.Cipher: java.util.List b(java.lang.String)>/new java.util.ArrayList/0, 1
+  <javax.crypto.Cipher: javax.crypto.Cipher getInstance(java.lang.String,java.security.Provider)>/new javax.crypto.Cipher/0, 16
+  javax.crypto.Cipher$r.<clinit>/new java.util.HashMap/0, 5
+  javax.crypto.SunJCE_b.<clinit>/new java.net.URL/0, 2
+  javax.crypto.SunJCE_b.<clinit>/new java.security.SecureRandom/0, 1
+  javax.crypto.SunJCE_b.<clinit>/new java.util.IdentityHashMap/0, 6
+  javax.crypto.SunJCE_b.<clinit>/new java.util.IdentityHashMap/1, 6
+  javax.crypto.SunJCE_b.<clinit>/new java.util.WeakHashMap/0, 5
+  javax.crypto.SunJCE_b.i/new java.io.File/0, 1
+  javax.crypto.SunJCE_b.i/new java.io.File/1, 1
+  <javax.crypto.SunJCE_b: java.security.cert.X509Certificate b(java.lang.String)>/new java.io.ByteArrayInputStream/0, 3
+  javax.crypto.SunJCE_b.j/new java.io.File/0, 1
+  javax.crypto.SunJCE_c.<init>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_c: java.lang.String[] a(java.lang.String)>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_c: java.lang.String b(java.net.URL)>/new java.io.BufferedInputStream/0, 5
+  <javax.crypto.SunJCE_c: java.lang.String b(java.net.URL)>/new java.net.URL/0, 2
+  <javax.crypto.SunJCE_c: java.util.List a(java.net.URL)>/new java.io.BufferedInputStream/0, 5
+  <javax.crypto.SunJCE_c: java.util.List a(java.security.cert.Certificate[])>/new java.util.ArrayList/0, 1
+  <javax.crypto.SunJCE_c: void a(java.net.URL,java.lang.String,java.util.Vector)>/new java.net.URL/0, 2
+  <javax.crypto.SunJCE_c: void a(java.net.URL,java.util.Vector)>/new java.util.Vector/0, 2
+  javax.crypto.SunJCE_d.<init>/new java.util.Hashtable/0, 6
+  <javax.crypto.SunJCE_d: javax.crypto.SunJCE_f[] a(int,java.security.PermissionCollection)>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_d: javax.crypto.SunJCE_f[] a(int,java.security.PermissionCollection)>/new javax.crypto.SunJCE_f/0, 1
+  <javax.crypto.SunJCE_d: javax.crypto.SunJCE_f[] a(int,java.security.PermissionCollection)>/new javax.crypto.SunJCE_f/1, 1
+  <javax.crypto.SunJCE_d: javax.crypto.SunJCE_f[] a(java.security.PermissionCollection,java.security.PermissionCollection)>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_d: void a(java.io.InputStream)>/new java.io.BufferedReader/0, 8
+  <javax.crypto.SunJCE_d: void a(java.io.InputStream)>/new javax.crypto.SunJCE_e/0, 1
+  <javax.crypto.SunJCE_e: boolean a(java.lang.String,java.lang.String,java.util.Hashtable)>/new java.util.Hashtable/0, 6
+  <javax.crypto.SunJCE_e: boolean a(java.lang.String,java.lang.String,java.util.Hashtable)>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_e: boolean a(java.lang.String,java.lang.String,java.util.Hashtable)>/new java.util.Vector/1, 2
+  javax.crypto.SunJCE_e.c/new java.lang.String/0, 3
+  javax.crypto.SunJCE_e.<init>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_e$q b(java.util.Hashtable)>/new java.lang.Integer/0, 4
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_e$q b(java.util.Hashtable)>/new java.lang.Integer/1, 4
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_e$q b(java.util.Hashtable)>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_e$q b(java.util.Hashtable)>/new javax.crypto.SunJCE_e$q/0, 1
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_f[] a()>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_f[] a()>/new javax.crypto.SunJCE_f/0, 1
+  <javax.crypto.SunJCE_e: javax.crypto.SunJCE_f[] a()>/new javax.crypto.SunJCE_f/1, 1
+  javax.crypto.SunJCE_e$o.<init>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_e: void a(java.io.Reader)>/new java.io.BufferedReader/0, 8
+  <javax.crypto.SunJCE_e: void a(java.io.Reader)>/new java.io.StreamTokenizer/0, 10
+  javax.crypto.SunJCE_g.<init>/new java.util.Vector/0, 2
+  javax.crypto.SunJCE_h.<clinit>/new java.util.HashMap/0, 5
+  javax.crypto.SunJCE_h.<clinit>/new java.util.Vector/0, 2
+  <javax.crypto.SunJCE_h: javax.crypto.SunJCE_f a(java.lang.String)>/new javax.crypto.SunJCE_f/0, 1
+  <javax.crypto.SunJCE_h: javax.crypto.SunJCE_f a(java.lang.String)>/new javax.crypto.SunJCE_f/1, 1
+  javax.crypto.SunJCE_l.elements/new java.util.Vector/0, 2
+  javax.security.auth.login.Configuration$Parameters, 3
+  javax.security.auth.PrivateCredentialPermission, 3
+  javax.security.auth.Subject$SecureSet.<clinit>/new java.io.ObjectStreamField/0, 1
+  javax.security.auth.Subject$SecureSet.<clinit>/new java.io.ObjectStreamField/1, 1
+  javax.security.auth.Subject$SecureSet.<clinit>/new java.io.ObjectStreamField/2, 1
+  <javax.security.auth.Subject$SecureSet: void <init>(javax.security.auth.Subject,int,java.util.Set)>/new java.util.LinkedList/0, 1
+  <javax.security.auth.Subject: void <init>(boolean,java.util.Set,java.util.Set,java.util.Set)>/new javax.security.auth.Subject$SecureSet/0, 1
+  <javax.security.auth.Subject: void <init>(boolean,java.util.Set,java.util.Set,java.util.Set)>/new javax.security.auth.Subject$SecureSet/1, 1
+  <javax.security.auth.Subject: void <init>(boolean,java.util.Set,java.util.Set,java.util.Set)>/new javax.security.auth.Subject$SecureSet/2, 1
+  javax.security.auth.x500.X500Principal, 3
+  <<main-thread>>, 6
+  <<main-thread-group>>, 4
+  org.apache.lucene.analysis.standard.FastCharStream.GetImage/new java.lang.String/0, 3
+  org.apache.lucene.analysis.standard.StandardAnalyzer.tokenStream/new org.apache.lucene.analysis.standard.StandardTokenizer/0, 3
+  org.apache.lucene.analysis.standard.StandardFilter.next/new org.apache.lucene.analysis.Token/0, 3
+  org.apache.lucene.analysis.standard.StandardFilter.next/new org.apache.lucene.analysis.Token/1, 3
+  org.apache.lucene.analysis.standard.StandardTokenizer.next/new org.apache.lucene.analysis.Token/0, 3
+  org.apache.lucene.analysis.standard.StandardTokenizerTokenManager.SwitchTo/new org.apache.lucene.analysis.standard.TokenMgrError/0, 5
+  <org.apache.lucene.analysis.standard.StandardTokenizer: void <init>(java.io.Reader)>/new org.apache.lucene.analysis.standard.FastCharStream/0, 4
+  <org.apache.lucene.analysis.standard.StandardTokenizer: void <init>(org.apache.lucene.analysis.standard.CharStream)>/new java.util.Vector/0, 2
+  <org.apache.lucene.analysis.standard.StandardTokenizer: void <init>(org.apache.lucene.analysis.standard.CharStream)>/new org.apache.lucene.analysis.standard.StandardTokenizerTokenManager/0, 6
+  <org.apache.lucene.analysis.standard.StandardTokenizer: void <init>(org.apache.lucene.analysis.standard.CharStream)>/new org.apache.lucene.analysis.standard.Token/0, 5
+  org.apache.lucene.analysis.standard.Token.newToken/new org.apache.lucene.analysis.standard.Token/0, 5
+  <org.apache.lucene.document.DateTools: long round(long,org.apache.lucene.document.DateTools$Resolution)>/new java.util.Date/0, 1
+  org.apache.lucene.document.DateTools.timeToString/new java.text.SimpleDateFormat/0, 6
+  org.apache.lucene.document.DateTools.timeToString/new java.util.Date/0, 1
+  org.apache.lucene.document.Document.<init>/new java.util.Vector/0, 2
+  org.apache.lucene.index.CompoundFileReader.<init>/new java.util.HashMap/0, 5
+  org.apache.lucene.index.CompoundFileWriter.<init>/new java.util.LinkedList/0, 1
+  org.apache.lucene.index.DocumentWriter.addPosition/new org.apache.lucene.index.Posting/0, 1
+  org.apache.lucene.index.DocumentWriter.invertDocument/new java.io.StringReader/0, 3
+  org.apache.lucene.index.DocumentWriter.invertDocument/new org.apache.lucene.index.TermVectorOffsetInfo/0, 2
+  org.apache.lucene.index.DocumentWriter.invertDocument/new org.apache.lucene.index.TermVectorOffsetInfo/1, 2
+  <org.apache.lucene.index.DocumentWriter: void <init>(org.apache.lucene.store.Directory,org.apache.lucene.analysis.Analyzer,org.apache.lucene.index.IndexWriter)>/new java.util.Hashtable/0, 6
+  org.apache.lucene.index.DocumentWriter.writePostings/new org.apache.lucene.index.TermInfo/0, 2
+  org.apache.lucene.index.DocumentWriter.writePostings/new org.apache.lucene.index.TermInfosWriter/0, 3
+  org.apache.lucene.index.DocumentWriter.writePostings/new org.apache.lucene.index.TermVectorsWriter/0, 2
+  org.apache.lucene.index.FieldInfos.addInternal/new org.apache.lucene.index.FieldInfo/0, 1
+  <org.apache.lucene.index.FieldInfos: void <init>()>/new java.util.ArrayList/0, 1
+  <org.apache.lucene.index.FieldInfos: void <init>()>/new java.util.HashMap/0, 5
+  <org.apache.lucene.index.FieldInfos: void <init>(org.apache.lucene.store.Directory,java.lang.String)>/new java.util.ArrayList/0, 1
+  <org.apache.lucene.index.FieldInfos: void <init>(org.apache.lucene.store.Directory,java.lang.String)>/new java.util.HashMap/0, 5
+  org.apache.lucene.index.FieldsReader.doc/new java.lang.String/0, 3
+  org.apache.lucene.index.FieldsReader.uncompress/new java.io.ByteArrayOutputStream/0, 1
+  org.apache.lucene.index.FieldsReader.uncompress/new java.util.zip.Inflater/0, 2
+  org.apache.lucene.index.FieldsWriter.compress/new java.io.ByteArrayOutputStream/0, 1
+  org.apache.lucene.index.FieldsWriter.compress/new java.util.zip.Deflater/0, 12
+  org.apache.lucene.index.IndexWriter.deleteSegments/new java.util.Vector/0, 2
+  org.apache.lucene.index.IndexWriter.readDeleteableFiles/new java.util.Vector/0, 2
+  <org.apache.lucene.index.IndexWriter: void addDocument(org.apache.lucene.document.Document,org.apache.lucene.analysis.Analyzer)>/new org.apache.lucene.index.DocumentWriter/0, 2
+  <org.apache.lucene.index.IndexWriter: void addDocument(org.apache.lucene.document.Document,org.apache.lucene.analysis.Analyzer)>/new org.apache.lucene.index.SegmentInfo/0, 1
+  <org.apache.lucene.index.IndexWriter: void deleteFiles(java.util.Vector)>/new java.util.Vector/0, 2
+  <org.apache.lucene.index.IndexWriter: void <init>(org.apache.lucene.store.Directory,org.apache.lucene.analysis.Analyzer,boolean,boolean)>/new org.apache.lucene.index.SegmentInfos/0, 2
+  <org.apache.lucene.index.IndexWriter: void mergeSegments(int,int)>/new java.util.Vector/0, 2
+  <org.apache.lucene.index.IndexWriter: void mergeSegments(int,int)>/new org.apache.lucene.index.SegmentInfo/0, 1
+  <org.apache.lucene.index.IndexWriter: void mergeSegments(int,int)>/new org.apache.lucene.index.SegmentMerger/0, 3
+  org.apache.lucene.index.SegmentInfos.read/new org.apache.lucene.index.SegmentInfo/0, 1
+  org.apache.lucene.index.SegmentMerger.createCompoundFile/new java.util.Vector/0, 2
+  org.apache.lucene.index.SegmentMerger.mergeTermInfos/new org.apache.lucene.index.SegmentMergeInfo/0, 1
+  org.apache.lucene.index.SegmentMerger.mergeTerms/new org.apache.lucene.index.TermInfosWriter/0, 3
+  org.apache.lucene.index.SegmentMerger.mergeVectors/new org.apache.lucene.index.TermVectorsWriter/0, 2
+  <org.apache.lucene.index.SegmentMerger: void <init>(org.apache.lucene.index.IndexWriter,java.lang.String)>/new java.util.Vector/0, 2
+  <org.apache.lucene.index.SegmentMerger: void <init>(org.apache.lucene.index.IndexWriter,java.lang.String)>/new org.apache.lucene.index.TermInfo/0, 2
+  <org.apache.lucene.index.SegmentMerger: void <init>(org.apache.lucene.index.IndexWriter,java.lang.String)>/new org.apache.lucene.store.RAMOutputStream/0, 1
+  org.apache.lucene.index.SegmentReader, 3
+  org.apache.lucene.index.SegmentReader.files/new java.util.Vector/0, 2
+  org.apache.lucene.index.SegmentReader.initialize/new org.apache.lucene.index.FieldsReader/0, 1
+  org.apache.lucene.index.SegmentReader.initialize/new org.apache.lucene.index.TermVectorsReader/0, 3
+  org.apache.lucene.index.SegmentReader.initialize/new org.apache.lucene.util.BitVector/0, 2
+  org.apache.lucene.index.SegmentReader.<init>/new java.lang.ThreadLocal/0, 2
+  org.apache.lucene.index.SegmentReader.<init>/new java.util.Hashtable/0, 6
+  org.apache.lucene.index.SegmentReader.openNorms/new org.apache.lucene.index.SegmentReader$Norm/0, 1
+  org.apache.lucene.index.SegmentReader.termPositions/new org.apache.lucene.index.SegmentTermPositions/0, 2
+  org.apache.lucene.index.SegmentTermEnum.clone/new org.apache.lucene.index.TermInfo/0, 2
+  org.apache.lucene.index.SegmentTermEnum.<init>/new org.apache.lucene.index.TermBuffer/0, 1
+  org.apache.lucene.index.SegmentTermEnum.<init>/new org.apache.lucene.index.TermBuffer/1, 1
+  org.apache.lucene.index.SegmentTermEnum.<init>/new org.apache.lucene.index.TermInfo/0, 2
+  <org.apache.lucene.index.SegmentTermEnum: org.apache.lucene.index.TermInfo termInfo()>/new org.apache.lucene.index.TermInfo/0, 2
+  org.apache.lucene.index.SegmentTermEnum.scanTo/new org.apache.lucene.index.TermBuffer/0, 1
+  org.apache.lucene.index.TermBuffer.toTerm/new java.lang.String/0, 3
+  org.apache.lucene.index.TermInfosReader.<init>/new java.lang.ThreadLocal/0, 2
+  org.apache.lucene.index.TermInfosReader.<init>/new org.apache.lucene.index.SegmentTermEnum/0, 4
+  org.apache.lucene.index.TermInfosReader.<init>/new org.apache.lucene.index.SegmentTermEnum/1, 4
+  <org.apache.lucene.index.TermInfosWriter: void <init>(org.apache.lucene.store.Directory,java.lang.String,org.apache.lucene.index.FieldInfos,int,boolean)>/new org.apache.lucene.index.TermInfo/0, 2
+  <org.apache.lucene.index.TermInfosWriter: void <init>(org.apache.lucene.store.Directory,java.lang.String,org.apache.lucene.index.FieldInfos,int)>/new org.apache.lucene.index.TermInfo/0, 2
+  <org.apache.lucene.index.TermInfosWriter: void <init>(org.apache.lucene.store.Directory,java.lang.String,org.apache.lucene.index.FieldInfos,int)>/new org.apache.lucene.index.TermInfosWriter/0, 3
+  org.apache.lucene.index.TermVectorsReader.readTermVector/new java.lang.String/0, 3
+  org.apache.lucene.index.TermVectorsReader.readTermVector/new org.apache.lucene.index.TermVectorOffsetInfo/0, 2
+  org.apache.lucene.index.TermVectorsWriter.addTermInternal/new org.apache.lucene.index.TermVectorsWriter$TVTerm/0, 1
+  org.apache.lucene.index.TermVectorsWriter.<init>/new java.util.Vector/0, 2
+  org.apache.lucene.index.TermVectorsWriter.<init>/new java.util.Vector/1, 2
+  <org.apache.lucene.index.TermVectorsWriter: void openField(int,boolean,boolean)>/new org.apache.lucene.index.TermVectorsWriter$TVField/0, 1
+  org.apache.lucene.store.FSDirectory, 3
+  org.apache.lucene.store.FSDirectory.<clinit>/new java.util.Hashtable/0, 6
+  org.apache.lucene.store.FSDirectory.create/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.create/new java.io.File/1, 1
+  org.apache.lucene.store.FSDirectory.createOutput/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.deleteFile/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.fileExists/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.init/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.makeLock/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.openInput/new java.io.File/0, 1
+  <org.apache.lucene.store.FSDirectory: org.apache.lucene.store.FSDirectory getDirectory(java.io.File,boolean)>/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.renameFile/new java.io.File/0, 1
+  org.apache.lucene.store.FSDirectory.renameFile/new java.io.File/1, 1
+  org.apache.lucene.store.FSIndexOutput.<init>/new java.io.RandomAccessFile/0, 4
+  org.apache.lucene.store.IndexInput.readString/new java.lang.String/0, 3
+  org.apache.lucene.store.RAMDirectory.createOutput/new org.apache.lucene.store.RAMOutputStream/0, 1
+  org.apache.lucene.store.RAMDirectory.openInput/new org.apache.lucene.store.RAMInputStream/0, 1
+  <org.apache.lucene.store.RAMDirectory: void <init>()>/new java.util.Hashtable/0, 6
+  org.apache.lucene.store.RAMFile.<init>/new java.util.Vector/0, 2
+  org.apache.lucene.util.Parameter.<clinit>/new java.util.HashMap/0, 5
+  <reflective Class.newInstance org.apache.lucene.store.FSDirectory>, 1
+  <reflective Class.newInstance sun.security.provider.MD5>, 16
+  <reflective Class.newInstance sun.security.provider.SHA>, 4
+  <<string-constant>>, 3
+  sun.jkernel.BackgroundDownloader$1.run/new java.io.ByteArrayOutputStream/0, 1
+  sun.jkernel.BackgroundDownloader$2.run/new java.io.ByteArrayOutputStream/0, 1
+  sun.jkernel.BackgroundDownloader.startBackgroundDownloads/new java.io.File/0, 1
+  sun.jkernel.Bundle$1.newThread/new java.lang.Thread/0, 6
+  sun.jkernel.BundleCheck.loadProperties/new java.io.BufferedInputStream/0, 5
+  <sun.jkernel.BundleCheck: sun.jkernel.BundleCheck getInstance(java.lang.String,java.io.File,boolean)>/new sun.jkernel.BundleCheck/0, 1
+  <sun.jkernel.BundleCheck: sun.jkernel.BundleCheck getInstance(java.lang.String,java.io.File,boolean)>/new sun.jkernel.BundleCheck/1, 1
+  sun.jkernel.Bundle.<clinit>/new java.io.File/0, 1
+  sun.jkernel.Bundle.<clinit>/new java.util.HashMap/0, 5
+  sun.jkernel.Bundle.download/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.Bundle.download/new java.io.BufferedOutputStream/0, 1
+  sun.jkernel.Bundle.download/new java.io.File/0, 1
+  sun.jkernel.Bundle.download/new java.io.File/1, 1
+  sun.jkernel.Bundle.download/new java.util.zip.GZIPInputStream/0, 6
+  sun.jkernel.Bundle.getBundle/new java.io.File/0, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/1, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/2, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/3, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/4, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/5, 1
+  sun.jkernel.Bundle.getBundle/new java.io.File/6, 1
+  sun.jkernel.Bundle.getBundle/new sun.jkernel.Bundle/0, 8
+  sun.jkernel.Bundle.loadReceipts/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.Bundle.queueDependencies/new java.util.StringTokenizer/0, 4
+  sun.jkernel.Bundle.unpackBundle/new java.io.File/0, 1
+  sun.jkernel.Bundle.unpackBundle/new java.io.File/1, 1
+  sun.jkernel.Bundle.unpackBundle/new java.io.File/2, 1
+  sun.jkernel.Bundle.unpackBundle/new java.io.File/3, 1
+  sun.jkernel.Bundle.unpackBundle/new java.io.File/4, 1
+  sun.jkernel.Bundle.writeReceipt/new java.io.File/0, 1
+  sun.jkernel.DownloadManager$2.run/new java.io.File/0, 1
+  sun.jkernel.DownloadManager$5.run/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.copyReceiptFile/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.doGetBootClassPathEntryForResource/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.doGetBootClassPathEntryForResource/new java.io.File/1, 1
+  sun.jkernel.DownloadManager.downloadRequestedBundles/new java.io.ByteArrayOutputStream/0, 1
+  sun.jkernel.DownloadManager.downloadRequestedBundles/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.downloadRequestedBundles/new java.lang.String/0, 3
+  sun.jkernel.DownloadManager.downloadRequestedBundles/new java.util.ArrayList/0, 1
+  sun.jkernel.DownloadManager.getBundlePath/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.getBundleProperties/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.getBundleProperties/new java.util.HashMap/0, 5
+  sun.jkernel.DownloadManager.getBundleProperties/new java.util.HashMap/1, 5
+  sun.jkernel.DownloadManager.getBundleURLs/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.getBundleURLs/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.getFileMap/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.getFileMap/new java.util.HashMap/0, 5
+  sun.jkernel.DownloadManager.getFileMap/new java.util.HashMap/1, 5
+  sun.jkernel.DownloadManager.getLocalLowTempBundlePath/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.getResourceMap/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.getResourceMap/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.getResourceMap/new java.util.HashMap/0, 5
+  sun.jkernel.DownloadManager.getResourceMap/new java.util.HashMap/1, 5
+  sun.jkernel.DownloadManager.println/new java.util.ArrayList/0, 1
+  sun.jkernel.DownloadManager.readTreeMap/new java.io.BufferedInputStream/0, 5
+  sun.jkernel.DownloadManager.readTreeMap/new java.util.ArrayList/0, 1
+  sun.jkernel.DownloadManager.readTreeMap/new java.util.HashMap/0, 5
+  sun.jkernel.DownloadManager.sendErrorPing/new java.io.BufferedReader/0, 8
+  sun.jkernel.DownloadManager.sendErrorPing/new java.io.File/0, 1
+  sun.jkernel.DownloadManager.sendErrorPing/new java.io.File/1, 1
+  <sun.jkernel.DownloadManager: void log(java.lang.String)>/new java.io.File/0, 1
+  <sun.jkernel.DownloadManager: void log(java.lang.Throwable)>/new java.io.ByteArrayOutputStream/0, 1
+  sun.jkernel.StandaloneMessageDigest.getInstance/new sun.jkernel.StandaloneSHA/0, 4
+  <sun.misc.CharacterDecoder: byte[] decodeBuffer(java.lang.String)>/new java.io.ByteArrayInputStream/0, 3
+  <sun.misc.CharacterDecoder: byte[] decodeBuffer(java.lang.String)>/new java.io.ByteArrayOutputStream/0, 1
+  <sun.misc.CharacterDecoder: void decodeBuffer(java.io.InputStream,java.io.OutputStream)>/new java.io.PushbackInputStream/0, 1
+  <sun.misc.CharacterEncoder: java.lang.String encodeBuffer(byte[])>/new java.io.ByteArrayInputStream/0, 3
+  <sun.misc.CharacterEncoder: java.lang.String encodeBuffer(byte[])>/new java.io.ByteArrayOutputStream/0, 1
+  <sun.misc.CharacterEncoder: java.lang.String encode(byte[])>/new java.io.ByteArrayInputStream/0, 3
+  <sun.misc.CharacterEncoder: java.lang.String encode(byte[])>/new java.io.ByteArrayOutputStream/0, 1
+  sun.misc.ClassFileTransformer.<clinit>/new java.util.ArrayList/0, 1
+  sun.misc.ExtensionDependency$2.run/new java.io.File/0, 1
+  sun.misc.ExtensionDependency$2.run/new java.io.File/1, 1
+  sun.misc.ExtensionDependency.checkExtensionAgainst/new sun.misc.ExtensionInfo/0, 5
+  sun.misc.ExtensionDependency.checkExtensionAgainst/new sun.misc.ExtensionInfo/1, 5
+  sun.misc.ExtensionDependency.checkExtension/new sun.misc.ExtensionInfo/0, 5
+  sun.misc.ExtensionDependency.checkExtensions/new java.util.StringTokenizer/0, 4
+  sun.misc.ExtensionDependency.getExtDirs/new java.io.File/0, 1
+  sun.misc.ExtensionDependency.getExtDirs/new java.util.StringTokenizer/0, 4
+  sun.misc.ExtensionDependency.getExtFiles/new java.io.File/0, 1
+  sun.misc.ExtensionDependency.getExtFiles/new java.util.Vector/0, 2
+  sun.misc.ExtensionInfo.convertToken/new java.text.MessageFormat/0, 2
+  sun.misc.ExtensionInfo.strictCompareExtensionVersion/new java.util.StringTokenizer/0, 4
+  sun.misc.ExtensionInfo.strictCompareExtensionVersion/new java.util.StringTokenizer/1, 4
+  sun.misc.FDBigInt.add/new sun.misc.FDBigInt/0, 1
+  sun.misc.FDBigInt.add/new sun.misc.FDBigInt/1, 1
+  sun.misc.FDBigInt.sub/new sun.misc.FDBigInt/0, 1
+  <sun.misc.FDBigInt: sun.misc.FDBigInt mult(int)>/new sun.misc.FDBigInt/0, 1
+  <sun.misc.FDBigInt: sun.misc.FDBigInt mult(int)>/new sun.misc.FDBigInt/1, 1
+  <sun.misc.FDBigInt: sun.misc.FDBigInt mult(sun.misc.FDBigInt)>/new sun.misc.FDBigInt/0, 1
+  sun.misc.FileURLMapper.exists/new java.io.File/0, 1
+  sun.misc.FloatingDecimal.big5pow/new sun.misc.FDBigInt/0, 1
+  sun.misc.FloatingDecimal.big5pow/new sun.misc.FDBigInt/1, 1
+  sun.misc.FloatingDecimal.constructPow52/new sun.misc.FDBigInt/0, 1
+  sun.misc.FloatingDecimal.doubleToBigInt/new sun.misc.FDBigInt/0, 1
+  sun.misc.FloatingDecimal.doubleValue/new sun.misc.FDBigInt/0, 1
+  sun.misc.FloatingDecimal.doubleValue/new sun.misc.FDBigInt/1, 1
+  sun.misc.FloatingDecimal.dtoa/new sun.misc.FDBigInt/0, 1
+  sun.misc.FloatingDecimal.parseHexString/new sun.misc.FloatingDecimal/0, 25
+  sun.misc.FloatingDecimal.parseHexString/new sun.misc.FloatingDecimal/1, 25
+  sun.misc.FloatingDecimal.parseHexString/new sun.misc.FloatingDecimal/2, 25
+  sun.misc.FloatingDecimal.parseHexString/new sun.misc.FloatingDecimal/3, 25
+  sun.misc.FloatingDecimal.parseHexString/new sun.misc.FloatingDecimal/4, 25
+  sun.misc.FloatingDecimal.readJavaFormatString/new sun.misc.FloatingDecimal/0, 25
+  sun.misc.FloatingDecimal.readJavaFormatString/new sun.misc.FloatingDecimal/1, 25
+  sun.misc.FloatingDecimal.readJavaFormatString/new sun.misc.FloatingDecimal/2, 25
+  sun.misc.FloatingDecimal.toJavaFormatString/new java.lang.String/0, 3
+  sun.misc.JarIndex.addToList/new java.util.LinkedList/0, 1
+  sun.misc.JarIndex.read/new java.io.BufferedReader/0, 8
+  sun.misc.JarIndex.read/new java.util.Vector/0, 2
+  <sun.misc.JarIndex: void <init>()>/new java.util.HashMap/0, 5
+  <sun.misc.JarIndex: void <init>()>/new java.util.HashMap/1, 5
+  sun.misc.Launcher$ExtClassLoader.getExtDirs/new java.io.File/0, 1
+  sun.misc.Launcher$ExtClassLoader.getExtDirs/new java.util.StringTokenizer/0, 4
+  sun.misc.Launcher$ExtClassLoader.getExtURLs/new java.io.File/0, 1
+  sun.misc.Launcher$ExtClassLoader.getExtURLs/new java.util.Vector/0, 2
+  sun.misc.Launcher.getClassPath/new java.io.File/0, 1
+  sun.misc.Launcher.getClassPath/new java.io.File/1, 1
+  sun.misc.Launcher.getClassPath/new java.io.File/2, 1
+  sun.misc.Launcher.getClassPath/new java.io.File/3, 1
+  sun.misc.MetaIndex.getJarMap/new java.util.HashMap/0, 5
+  sun.misc.MetaIndex.registerDirectory/new java.io.BufferedReader/0, 8
+  sun.misc.MetaIndex.registerDirectory/new java.io.File/0, 1
+  sun.misc.MetaIndex.registerDirectory/new java.io.File/1, 1
+  sun.misc.MetaIndex.registerDirectory/new java.io.File/2, 1
+  sun.misc.MetaIndex.registerDirectory/new java.util.ArrayList/0, 1
+  sun.misc.Service.parse/new java.io.BufferedReader/0, 8
+  sun.misc.Service.parse/new java.util.ArrayList/0, 1
+  sun.misc.Signal.<clinit>/new java.util.Hashtable/0, 6
+  sun.misc.Signal.<clinit>/new java.util.Hashtable/1, 6
+  sun.misc.Signal.handle/new java.lang.Integer/0, 4
+  sun.misc.SoftCache$ValueCell.create/new sun.misc.SoftCache$ValueCell/0, 1
+  <sun.misc.SoftCache: void <init>(int)>/new java.util.HashMap/0, 5
+  sun.misc.Unsafe.<clinit>/new sun.misc.Unsafe/0, 1
+  sun.misc.URLClassPath$FileLoader.getResource/new java.io.File/0, 1
+  sun.misc.URLClassPath$FileLoader.getResource/new java.io.File/1, 1
+  sun.misc.URLClassPath$FileLoader.getResource/new java.net.URL/0, 2
+  sun.misc.URLClassPath$FileLoader.getResource/new java.net.URL/1, 2
+  sun.misc.URLClassPath$FileLoader.<init>/new java.io.File/0, 1
+  sun.misc.URLClassPath.findResources/new sun.misc.URLClassPath$1/0, 1
+  sun.misc.URLClassPath$JarLoader$1.run/new java.net.URL/0, 2
+  sun.misc.URLClassPath$JarLoader.checkResource/new java.net.URL/0, 2
+  sun.misc.URLClassPath$JarLoader.<init>/new java.io.File/0, 1
+  sun.misc.URLClassPath$JarLoader.<init>/new java.net.URL/0, 2
+  sun.misc.URLClassPath$JarLoader.parseClassPath/new java.net.URL/0, 2
+  sun.misc.URLClassPath$JarLoader.parseClassPath/new java.util.StringTokenizer/0, 4
+  <sun.misc.URLClassPath$JarLoader: sun.misc.Resource getResource(java.lang.String,boolean,java.util.Set)>/new java.net.URL/0, 2
+  <sun.misc.URLClassPath: java.util.Enumeration getResources(java.lang.String,boolean)>/new sun.misc.URLClassPath$2/0, 1
+  sun.misc.URLClassPath$Loader.findResource/new java.net.URL/0, 2
+  <sun.misc.URLClassPath$Loader: sun.misc.Resource getResource(java.lang.String,boolean)>/new java.net.URL/0, 2
+  <sun.misc.URLClassPath: void <init>(java.net.URL[],java.net.URLStreamHandlerFactory)>/new java.util.ArrayList/0, 1
+  <sun.misc.URLClassPath: void <init>(java.net.URL[],java.net.URLStreamHandlerFactory)>/new java.util.ArrayList/1, 1
+  <sun.misc.URLClassPath: void <init>(java.net.URL[],java.net.URLStreamHandlerFactory)>/new java.util.HashMap/0, 5
+  sun.net.InetAddressCachePolicy.<clinit>/new java.lang.Integer/0, 4
+  sun.net.InetAddressCachePolicy.<clinit>/new java.lang.Integer/1, 4
+  sun.net.InetAddressCachePolicy.<clinit>/new sun.security.action.GetIntegerAction/0, 1
+  sun.net.InetAddressCachePolicy.<clinit>/new sun.security.action.GetIntegerAction/1, 1
+  sun.net.www.ParseUtil.<clinit>/new java.util.BitSet/0, 4
+  sun.net.www.ParseUtil.fileToEncodedURL/new java.net.URL/0, 2
+  <sun.net.www.ParseUtil: java.lang.String encodePath(java.lang.String,boolean)>/new java.lang.String/0, 3
+  sun.net.www.URLConnection.<clinit>/new java.util.HashMap/0, 5
+  sun.nio.cs.FastCharsetProvider.toLower/new java.lang.String/0, 3
+  sun.nio.cs.StandardCharsets.<init>/new sun.nio.cs.StandardCharsets$Aliases/0, 4
+  sun.nio.cs.StandardCharsets.<init>/new sun.nio.cs.StandardCharsets$Cache/0, 4
+  sun.nio.cs.StandardCharsets.<init>/new sun.nio.cs.StandardCharsets$Classes/0, 4
+  <sun.nio.cs.StreamDecoder: sun.nio.cs.StreamDecoder forInputStreamReader(java.io.InputStream,java.lang.Object,java.lang.String)>/new sun.nio.cs.StreamDecoder/0, 2
+  <sun.nio.cs.StreamEncoder: sun.nio.cs.StreamEncoder forOutputStreamWriter(java.io.OutputStream,java.lang.Object,java.lang.String)>/new sun.nio.cs.StreamEncoder/0, 1
+  sun.nio.cs.ThreadLocalCoders$Cache.<init>/new java.lang.ThreadLocal/0, 2
+  <sun.nio.cs.US_ASCII$Encoder: void <init>(java.nio.charset.Charset)>/new sun.nio.cs.Surrogate$Parser/0, 1
+  sun.reflect.Reflection.<clinit>/new java.util.HashMap/0, 5
+  sun.reflect.ReflectionFactory.<clinit>/new sun.reflect.ReflectionFactory/0, 1
+  <sun.security.action.GetIntegerAction: java.lang.Integer run()>/new java.lang.Integer/0, 4
+  sun.security.ec.ECKeyFactory, 3
+  sun.security.ec.ECParameters, 3
+  sun.security.jca.ProviderConfig$2.run/new java.io.File/0, 1
+  sun.security.jca.ProviderList.getJarList/new java.util.ArrayList/0, 1
+  sun.security.jca.ProviderList.getJarList/new sun.security.jca.ProviderConfig/0, 2
+  <sun.security.jca.ProviderList: java.util.List getServices(java.lang.String,java.lang.String)>/new sun.security.jca.ProviderList$ServiceList/0, 1
+  <sun.security.jca.ProviderList: java.util.List getServices(java.util.List)>/new sun.security.jca.ProviderList$ServiceList/0, 1
+  sun.security.jca.ProviderList$ServiceList.addService/new java.util.ArrayList/0, 1
+  sun.security.jca.ProviderList$ServiceList.iterator/new sun.security.jca.ProviderList$ServiceList$1/0, 1
+  <sun.security.jca.ProviderList: void <init>()>/new java.util.ArrayList/0, 1
+  <sun.security.jca.ProviderList: void <init>()>/new sun.security.jca.ProviderConfig/0, 2
+  <sun.security.jca.ProviderList: void <init>()>/new sun.security.jca.ProviderConfig/1, 2
+  sun.security.jgss.SunProvider, 3
+  sun.security.pkcs.ESSCertId.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.security.pkcs.PKCS7.parseNetscapeCertChain/new java.io.ByteArrayInputStream/0, 3
+  sun.security.pkcs.PKCS7.parseNetscapeCertChain/new sun.security.x509.X509CertImpl/0, 1
+  sun.security.pkcs.PKCS7.parseOldSignedData/new java.io.ByteArrayInputStream/0, 3
+  sun.security.pkcs.PKCS7.parseOldSignedData/new sun.security.x509.X509CertImpl/0, 1
+  sun.security.pkcs.PKCS7.parseSignedData/new java.io.ByteArrayInputStream/0, 3
+  sun.security.pkcs.PKCS7.parseSignedData/new java.io.ByteArrayInputStream/1, 3
+  sun.security.pkcs.PKCS7.parseSignedData/new sun.security.x509.X509CertImpl/0, 1
+  sun.security.pkcs.PKCS7.parseSignedData/new sun.security.x509.X509CRLImpl/0, 1
+  sun.security.pkcs.PKCS7.populateCertIssuerNames/new sun.security.x509.X509CertInfo/0, 10
+  <sun.security.pkcs.PKCS7: sun.security.pkcs.SignerInfo[] verify(byte[])>/new java.util.Vector/0, 2
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/0, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/10, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/1, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/11, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/12, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/13, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/14, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/15, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/2, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/3, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/4, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/5, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/6, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/7, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/8, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.lang.Byte/9, 1
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.util.Hashtable/0, 6
+  sun.security.pkcs.PKCS9Attribute.<clinit>/new java.util.Hashtable/1, 6
+  sun.security.pkcs.PKCS9Attributes.decode/new sun.security.pkcs.PKCS9Attribute/0, 1
+  <sun.security.pkcs.PKCS9Attributes: void <init>(sun.security.util.DerInputStream,boolean)>/new java.util.Hashtable/0, 6
+  sun.security.pkcs.PKCS9Attribute.toString/new sun.misc.HexDumpEncoder/0, 3
+  <sun.security.pkcs.PKCS9Attribute: void <init>(sun.security.util.DerValue)>/new java.lang.Byte/0, 1
+  sun.security.pkcs.SignerInfo.getCertificateChain/new java.util.ArrayList/0, 1
+  sun.security.pkcs.SignerInfo.toString/new sun.misc.HexDumpEncoder/0, 3
+  <sun.security.pkcs.SignerInfo: void <init>(sun.security.util.DerInputStream,boolean)>/new sun.security.util.DerValue/0, 1
+  sun.security.pkcs.SigningCertificateInfo.parse/new sun.security.util.DerValue/0, 1
+  sun.security.provider.certpath.UntrustedChecker.check/new java.security.cert.CertPathValidatorException/0, 1
+  sun.security.provider.MD5, 3
+  sun.security.provider.NativePRNG$1.run/new java.io.File/0, 1
+  sun.security.provider.NativePRNG$1.run/new java.io.File/1, 1
+  sun.security.provider.NativePRNG$1.run/new sun.security.provider.NativePRNG$RandomIO/0, 2
+  sun.security.provider.NativePRNG, 3
+  sun.security.provider.PolicyFile, 3
+  sun.security.provider.PolicyFile$3.run/new java.io.File/0, 1
+  sun.security.provider.PolicyFile$3.run/new java.io.File/1, 1
+  sun.security.provider.PolicyFile$3.run/new java.io.File/2, 1
+  sun.security.provider.PolicyFile$3.run/new java.net.URI/0, 2
+  sun.security.provider.PolicyFile$3.run/new java.net.URL/0, 2
+  sun.security.provider.PolicyFile$4.run/new java.net.URL/0, 2
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/0, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/10, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/11, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/12, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/13, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/14, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/1, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/15, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/16, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/17, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/18, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/2, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/3, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/4, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/5, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/6, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/7, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/8, 5
+  sun.security.provider.PolicyFile$4.run/new java.util.PropertyPermission/9, 5
+  sun.security.provider.PolicyFile.addGrantEntry/new java.text.MessageFormat/0, 2
+  sun.security.provider.PolicyFile.addGrantEntry/new java.text.MessageFormat/1, 2
+  sun.security.provider.PolicyFile.addGrantEntry/new java.text.MessageFormat/2, 2
+  sun.security.provider.PolicyFile.addPermissions/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyFile.addPermissions/new javax.security.auth.Subject/0, 3
+  <sun.security.provider.PolicyFile: boolean init(java.net.URL,sun.security.provider.PolicyFile$PolicyInfo)>/new java.text.MessageFormat/0, 2
+  <sun.security.provider.PolicyFile: boolean init(java.net.URL,sun.security.provider.PolicyFile$PolicyInfo)>/new sun.security.provider.PolicyParser/0, 1
+  sun.security.provider.PolicyFile.canonicalizeCodebase/new java.io.File/0, 1
+  sun.security.provider.PolicyFile.canonPath/new java.io.File/0, 1
+  sun.security.provider.PolicyFile.canonPath/new java.io.File/1, 1
+  sun.security.provider.PolicyFile.expandPermissionName/new java.text.MessageFormat/0, 2
+  sun.security.provider.PolicyFile.expandPermissionName/new java.text.MessageFormat/1, 2
+  sun.security.provider.PolicyFile.expandPermissionName/new java.text.MessageFormat/2, 2
+  sun.security.provider.PolicyFile.getCertificates/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyFile.getCertificates/new java.util.StringTokenizer/0, 4
+  sun.security.provider.PolicyFile.getCodeSource/new java.net.URL/0, 2
+  sun.security.provider.PolicyFile.getKnownInstance/new java.io.FilePermission/0, 7
+  sun.security.provider.PolicyFile.getKnownInstance/new java.net.SocketPermission/0, 10
+  sun.security.provider.PolicyFile.getKnownInstance/new java.util.PropertyPermission/0, 5
+  sun.security.provider.PolicyFile.getPrincipalInfo/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyFile.getSignerCertificates/new java.util.ArrayList/0, 1
+  <sun.security.provider.PolicyFile$PolicyEntry: void <init>(java.security.CodeSource,java.util.List)>/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyFile$PolicyInfo.<init>/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyFile$PolicyInfo.<init>/new java.util.ArrayList/1, 1
+  sun.security.provider.PolicyFile$PolicyInfo.<init>/new java.util.HashMap/0, 5
+  sun.security.provider.PolicyFile$SelfPermission.<init>/new java.util.ArrayList/0, 1
+  sun.security.provider.PolicyParser$GrantEntry.clone/new java.util.LinkedList/0, 1
+  sun.security.provider.PolicyParser$GrantEntry.clone/new java.util.Vector/0, 2
+  <sun.security.provider.PolicyParser$GrantEntry: void <init>()>/new java.util.LinkedList/0, 1
+  <sun.security.provider.PolicyParser$GrantEntry: void <init>()>/new java.util.Vector/0, 2
+  sun.security.provider.PolicyParser.match/new java.lang.String/0, 3
+  sun.security.provider.PolicyParser.match/new java.text.MessageFormat/0, 2
+  sun.security.provider.PolicyParser.parseExtDirs/new java.io.File/0, 1
+  sun.security.provider.PolicyParser.parseExtDirs/new java.util.StringTokenizer/0, 4
+  sun.security.provider.PolicyParser.parseGrantEntry/new java.util.LinkedList/0, 1
+  sun.security.provider.PolicyParser.parseGrantEntry/new java.util.StringTokenizer/0, 4
+  <sun.security.provider.PolicyParser$ParsingException: void <init>(int,java.lang.String,java.lang.String)>/new java.lang.Integer/0, 4
+  <sun.security.provider.PolicyParser$ParsingException: void <init>(int,java.lang.String,java.lang.String)>/new java.text.MessageFormat/0, 2
+  <sun.security.provider.PolicyParser$ParsingException: void <init>(int,java.lang.String)>/new java.lang.Integer/0, 4
+  <sun.security.provider.PolicyParser$ParsingException: void <init>(int,java.lang.String)>/new java.text.MessageFormat/0, 2
+  sun.security.provider.PolicyParser.read/new java.io.BufferedReader/0, 8
+  sun.security.provider.PolicyParser.read/new java.io.StreamTokenizer/0, 10
+  <sun.security.provider.PolicyParser: void <init>()>/new java.util.Vector/0, 2
+  sun.security.provider.SecureRandom, 3
+  sun.security.provider.SHA, 3
+  sun.security.provider.Sun, 3
+  sun.security.provider.X509Factory, 3
+  sun.security.timestamp.TimestampToken.parse/new sun.security.util.DerValue/0, 1
+  sun.security.util.BitArray.clone/new sun.security.util.BitArray/0, 3
+  sun.security.util.BitArray.toString/new java.io.ByteArrayOutputStream/0, 1
+  sun.security.util.BitArray.toString/new java.lang.String/0, 3
+  sun.security.util.DerIndefLenConverter.<init>/new java.util.ArrayList/0, 1
+  sun.security.util.DerIndefLenConverter.parseLength/new java.lang.Integer/0, 4
+  sun.security.util.DerInputBuffer.getBigInteger/new java.math.BigInteger/0, 8
+  sun.security.util.DerInputBuffer.getBigInteger/new java.math.BigInteger/1, 8
+  sun.security.util.DerInputBuffer.getTime/new java.util.Date/0, 1
+  sun.security.util.DerInputBuffer.getUnalignedBitString/new sun.security.util.BitArray/0, 3
+  sun.security.util.DerInputStream.getDerValue/new sun.security.util.DerValue/0, 1
+  sun.security.util.DerInputStream.getOID/new sun.security.util.ObjectIdentifier/0, 4
+  sun.security.util.DerInputStream.getUnalignedBitString/new sun.security.util.BitArray/0, 3
+  sun.security.util.DerInputStream.init/new sun.security.util.DerIndefLenConverter/0, 12
+  sun.security.util.DerInputStream.readVector/new java.util.Vector/0, 2
+  sun.security.util.DerInputStream.readVector/new sun.security.util.DerIndefLenConverter/0, 12
+  sun.security.util.DerInputStream.readVector/new sun.security.util.DerValue/0, 1
+  sun.security.util.DerOutputStream.putTime/new java.text.SimpleDateFormat/0, 6
+  sun.security.util.DerValue.getBMPString/new java.lang.String/0, 3
+  sun.security.util.DerValue.getGeneralString/new java.lang.String/0, 3
+  sun.security.util.DerValue.getIA5String/new java.lang.String/0, 3
+  sun.security.util.DerValue.getOID/new sun.security.util.ObjectIdentifier/0, 4
+  sun.security.util.DerValue.getPrintableString/new java.lang.String/0, 3
+  sun.security.util.DerValue.getT61String/new java.lang.String/0, 3
+  sun.security.util.DerValue.getUTF8String/new java.lang.String/0, 3
+  <sun.security.util.DerValue: void init(boolean,java.io.InputStream)>/new java.io.ByteArrayInputStream/0, 3
+  <sun.security.util.DerValue: void init(boolean,java.io.InputStream)>/new sun.security.util.DerIndefLenConverter/0, 12
+  <sun.security.util.DerValue: void <init>(byte[])>/new java.io.ByteArrayInputStream/0, 3
+  <sun.security.util.DerValue: void <init>(sun.security.util.DerInputBuffer)>/new sun.security.util.DerIndefLenConverter/0, 12
+  sun.security.util.ManifestDigester.<init>/new java.io.ByteArrayOutputStream/0, 1
+  sun.security.util.ManifestDigester.<init>/new java.lang.String/0, 3
+  sun.security.util.ManifestDigester.<init>/new java.lang.String/1, 3
+  sun.security.util.ManifestDigester.<init>/new java.util.HashMap/0, 5
+  sun.security.util.ManifestDigester.<init>/new sun.security.util.ManifestDigester$Entry/0, 3
+  sun.security.util.ManifestDigester.<init>/new sun.security.util.ManifestDigester$Entry/1, 3
+  sun.security.util.ManifestDigester.<init>/new sun.security.util.ManifestDigester$Position/0, 3
+  sun.security.util.ManifestEntryVerifier.<init>/new java.util.ArrayList/0, 1
+  sun.security.util.ManifestEntryVerifier.<init>/new java.util.ArrayList/1, 1
+  sun.security.util.ManifestEntryVerifier.<init>/new java.util.HashMap/0, 5
+  sun.security.util.ObjectIdentifier, 3
+  sun.security.util.ObjectIdentifier.newInternal/new sun.security.util.ObjectIdentifier/0, 4
+  sun.security.util.Password.readPassword/new java.io.ByteArrayInputStream/0, 3
+  sun.security.util.Password.readPassword/new java.io.PushbackInputStream/0, 1
+  sun.security.util.PolicyUtil.getKeyStore/new java.io.BufferedInputStream/0, 5
+  sun.security.util.PolicyUtil.getKeyStore/new java.net.URL/0, 2
+  sun.security.util.PolicyUtil.getKeyStore/new java.net.URL/1, 2
+  sun.security.util.PolicyUtil.getKeyStore/new java.net.URL/2, 2
+  sun.security.util.PolicyUtil.getKeyStore/new java.net.URL/3, 2
+  <sun.security.util.PropertyExpander: java.lang.String expand(java.lang.String,boolean)>/new java.net.URI/0, 2
+  sun.security.util.SecurityConstants.<clinit>/new java.net.SocketPermission/0, 10
+  sun.security.util.SignatureFileVerifier.getDigest/new java.util.HashMap/0, 5
+  sun.security.util.SignatureFileVerifier.getSigners/new java.security.CodeSigner/0, 1
+  sun.security.util.SignatureFileVerifier.getSigners/new java.util.ArrayList/0, 1
+  sun.security.util.SignatureFileVerifier.getTimestamp/new java.security.Timestamp/0, 1
+  sun.security.util.SignatureFileVerifier.getTimestamp/new sun.security.timestamp.TimestampToken/0, 1
+  sun.security.util.SignatureFileVerifier.processImpl/new java.io.ByteArrayInputStream/0, 3
+  sun.security.util.UntrustedCertificates.add/new java.io.ByteArrayInputStream/0, 3
+  sun.security.validator.EndEntityChecker.getInstance/new sun.security.validator.EndEntityChecker/0, 3
+  sun.security.validator.PKIXValidator.doBuild/new java.security.cert.X509CertSelector/0, 16
+  sun.security.validator.PKIXValidator.doBuild/new java.util.ArrayList/0, 1
+  sun.security.validator.PKIXValidator.initCommon/new java.util.ArrayList/0, 1
+  sun.security.validator.PKIXValidator.initCommon/new java.util.HashMap/0, 5
+  <sun.security.validator.PKIXValidator: void <init>(java.lang.String,java.util.Collection)>/new java.security.cert.PKIXBuilderParameters/0, 1
+  sun.security.validator.SimpleValidator.buildTrustedChain/new java.util.ArrayList/0, 1
+  sun.security.validator.SimpleValidator.engineValidate/new java.util.Date/0, 1
+  sun.security.validator.SimpleValidator.getNetscapeCertTypeBit/new sun.security.util.DerValue/0, 1
+  sun.security.validator.SimpleValidator.<init>/new java.util.ArrayList/0, 1
+  sun.security.validator.SimpleValidator.<init>/new java.util.HashMap/0, 5
+  <sun.security.validator.Validator: sun.security.validator.Validator getInstance(java.lang.String,java.lang.String,java.util.Collection)>/new sun.security.validator.PKIXValidator/0, 1
+  sun.security.x509.AlgorithmId.<clinit>/new java.util.HashMap/0, 5
+  sun.security.x509.AlgorithmId.derEncode/new sun.security.util.DerValue/0, 1
+  sun.security.x509.AlgorithmId.getName/new sun.security.util.DerValue/0, 1
+  sun.security.x509.AuthorityInfoAccessExtension, 3
+  sun.security.x509.AuthorityKeyIdentifierExtension, 3
+  sun.security.x509.AVA.getEmbeddedHexPair/new java.lang.Byte/0, 1
+  sun.security.x509.AVA.getEmbeddedHexString/new java.lang.String/0, 3
+  <sun.security.x509.AVA: java.lang.String toRFC2253String(java.util.Map)>/new java.lang.String/0, 3
+  sun.security.x509.AVAKeyword.<clinit>/new java.util.HashMap/0, 5
+  sun.security.x509.AVAKeyword.<clinit>/new java.util.HashMap/1, 5
+  <sun.security.x509.AVAKeyword: sun.security.util.ObjectIdentifier getOID(java.lang.String,int,java.util.Map)>/new sun.security.util.ObjectIdentifier/0, 4
+  <sun.security.x509.AVAKeyword: sun.security.util.ObjectIdentifier getOID(java.lang.String,int,java.util.Map)>/new sun.security.util.ObjectIdentifier/1, 4
+  sun.security.x509.AVA.parseHexString/new java.io.ByteArrayOutputStream/0, 1
+  sun.security.x509.AVA.parseHexString/new sun.security.util.DerValue/0, 1
+  sun.security.x509.AVA.parseQuotedString/new java.util.ArrayList/0, 1
+  sun.security.x509.AVA.parseQuotedString/new sun.security.util.DerValue/0, 1
+  sun.security.x509.AVA.parseQuotedString/new sun.security.util.DerValue/1, 1
+  sun.security.x509.AVA.parseQuotedString/new sun.security.util.DerValue/2, 1
+  sun.security.x509.AVA.parseString/new java.util.ArrayList/0, 1
+  sun.security.x509.AVA.parseString/new sun.security.util.DerValue/0, 1
+  sun.security.x509.AVA.parseString/new sun.security.util.DerValue/1, 1
+  sun.security.x509.AVA.parseString/new sun.security.util.DerValue/2, 1
+  sun.security.x509.AVA.toRFC2253CanonicalString/new java.lang.String/0, 3
+  <sun.security.x509.AVA: void <init>(java.io.Reader,int,java.util.Map)>/new sun.security.util.DerValue/0, 1
+  sun.security.x509.BasicConstraintsExtension, 3
+  sun.security.x509.CertificateExtensions, 3
+  sun.security.x509.CertificateExtensions.init/new sun.security.x509.Extension/0, 1
+  sun.security.x509.CertificateExtensions.parseExtension/new java.util.TreeMap/0, 2
+  sun.security.x509.CertificateExtensions.parseExtension/new sun.misc.HexDumpEncoder/0, 3
+  <sun.security.x509.CertificateExtensions: void <init>(sun.security.util.DerInputStream)>/new java.util.TreeMap/0, 2
+  sun.security.x509.CertificateIssuerExtension, 3
+  sun.security.x509.CertificatePoliciesExtension, 3
+  sun.security.x509.CertificateValidity.getNotAfter/new java.util.Date/0, 1
+  sun.security.x509.CertificateValidity.getNotBefore/new java.util.Date/0, 1
+  sun.security.x509.CertificateVersion.get/new java.lang.Integer/0, 4
+  sun.security.x509.CRLDistributionPointsExtension, 3
+  sun.security.x509.CRLExtensions.init/new sun.security.x509.Extension/0, 1
+  <sun.security.x509.CRLExtensions: void <init>(sun.security.util.DerInputStream)>/new java.util.TreeMap/0, 2
+  sun.security.x509.CRLNumberExtension, 3
+  sun.security.x509.CRLReasonCodeExtension, 3
+  sun.security.x509.DeltaCRLIndicatorExtension, 3
+  sun.security.x509.ExtendedKeyUsageExtension, 3
+  <sun.security.x509.GeneralNames: void <init>()>/new java.util.ArrayList/0, 1
+  <sun.security.x509.GeneralName: void <init>(sun.security.util.DerValue,boolean)>/new sun.security.x509.EDIPartyName/0, 1
+  <sun.security.x509.GeneralName: void <init>(sun.security.util.DerValue,boolean)>/new sun.security.x509.IPAddressName/0, 1
+  <sun.security.x509.GeneralName: void <init>(sun.security.util.DerValue,boolean)>/new sun.security.x509.OtherName/0, 1
+  <sun.security.x509.GeneralSubtrees: void <init>()>/new java.util.ArrayList/0, 1
+  <sun.security.x509.GeneralSubtrees: void <init>(sun.security.util.DerValue)>/new sun.security.x509.GeneralSubtree/0, 4
+  sun.security.x509.IPAddressName.getName/new sun.security.util.BitArray/0, 3
+  sun.security.x509.IPAddressName.parseIPv6/new sun.security.util.BitArray/0, 3
+  sun.security.x509.IPAddressName.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.security.x509.IssuerAlternativeNameExtension, 3
+  sun.security.x509.IssuingDistributionPointExtension, 3
+  sun.security.x509.KeyUsageExtension, 3
+  sun.security.x509.KeyUsageExtension.encodeThis/new sun.security.util.BitArray/0, 3
+  sun.security.x509.NameConstraintsExtension, 3
+  <sun.security.x509.NameConstraintsExtension: void <init>(java.lang.Boolean,java.lang.Object)>/new sun.security.util.DerValue/0, 1
+  <sun.security.x509.NameConstraintsExtension: void <init>(java.lang.Boolean,java.lang.Object)>/new sun.security.x509.GeneralSubtrees/0, 5
+  <sun.security.x509.NameConstraintsExtension: void <init>(java.lang.Boolean,java.lang.Object)>/new sun.security.x509.GeneralSubtrees/1, 5
+  sun.security.x509.NetscapeCertTypeExtension, 3
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new java.util.Vector/0, 2
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.util.ObjectIdentifier/0, 4
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/0, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/1, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/2, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/3, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/4, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/5, 1
+  sun.security.x509.NetscapeCertTypeExtension.<clinit>/new sun.security.x509.NetscapeCertTypeExtension$MapEntry/6, 1
+  sun.security.x509.NetscapeCertTypeExtension.encodeThis/new sun.security.util.BitArray/0, 3
+  <sun.security.x509.NetscapeCertTypeExtension: void <init>(byte[])>/new sun.security.util.BitArray/0, 3
+  sun.security.x509.OIDMap.<clinit>/new java.util.HashMap/0, 5
+  sun.security.x509.OIDMap.<clinit>/new java.util.HashMap/1, 5
+  sun.security.x509.PolicyConstraintsExtension, 3
+  sun.security.x509.PolicyMappingsExtension, 3
+  sun.security.x509.PrivateKeyUsageExtension, 3
+  sun.security.x509.RDN.toRFC2253StringInternal/new java.util.ArrayList/0, 1
+  <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/new java.io.StringReader/0, 3
+  <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/new java.io.StringReader/1, 3
+  <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/new java.util.ArrayList/0, 1
+  <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/new sun.security.x509.AVA/0, 3
+  <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/new sun.security.x509.AVA/1, 3
+  <sun.security.x509.RDN: void <init>(sun.security.util.DerValue)>/new sun.security.x509.AVA/0, 3
+  sun.security.x509.SubjectAlternativeNameExtension, 3
+  sun.security.x509.SubjectKeyIdentifierExtension, 3
+  sun.security.x509.UnparseableExtension.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.security.x509.URIName.nameConstraint/new java.net.URI/0, 2
+  <sun.security.x509.URIName: void <init>(java.lang.String)>/new java.net.URI/0, 2
+  <sun.security.x509.URIName: void <init>(java.lang.String)>/new java.net.URI/1, 2
+  <sun.security.x509.URIName: void <init>(java.lang.String)>/new sun.security.x509.IPAddressName/0, 1
+  <sun.security.x509.URIName: void <init>(java.lang.String)>/new sun.security.x509.IPAddressName/1, 1
+  sun.security.x509.X500Name.<clinit>/new java.util.HashMap/0, 5
+  sun.security.x509.X500Name.parseDER/new sun.security.util.DerValue/0, 1
+  sun.security.x509.X500Name.parseDN/new java.util.ArrayList/0, 1
+  sun.security.x509.X509CertImpl.getExtensionValue/new sun.security.util.ObjectIdentifier/0, 4
+  sun.security.x509.X509CertImpl.parse/new sun.security.x509.X509CertInfo/0, 10
+  sun.security.x509.X509CertImpl.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.security.x509.X509CertInfo.<clinit>/new java.util.HashMap/0, 5
+  sun.security.x509.X509CertInfo.parse/new sun.security.x509.CertificateVersion/0, 4
+  sun.security.x509.X509CertInfo.toString/new sun.misc.HexDumpEncoder/0, 3
+  <sun.security.x509.X509CertInfo: void <init>(byte[])>/new sun.security.util.DerValue/0, 1
+  <sun.security.x509.X509CertInfo: void <init>(byte[])>/new sun.security.x509.CertificateVersion/0, 4
+  <sun.security.x509.X509CertInfo: void <init>(sun.security.util.DerValue)>/new sun.security.x509.CertificateVersion/0, 4
+  sun.security.x509.X509CRLEntryImpl.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.security.x509.X509CRLImpl.parse/new sun.security.x509.X509CRLImpl$X509IssuerSerial/0, 1
+  <sun.security.x509.X509CRLImpl: void <init>(sun.security.util.DerValue)>/new java.util.LinkedList/0, 1
+  <sun.security.x509.X509CRLImpl: void <init>(sun.security.util.DerValue)>/new java.util.TreeMap/0, 2
+  sun.security.x509.X509Key.buildX509Key/new sun.security.x509.X509Key/0, 1
+  sun.security.x509.X509Key.getKey/new sun.security.util.BitArray/0, 3
+  sun.security.x509.X509Key.toString/new sun.misc.HexDumpEncoder/0, 3
+  sun.text.normalizer.NormalizerBase.<clinit>/new sun.text.normalizer.NormalizerBase$Mode/0, 1
+  sun.text.normalizer.NormalizerBase.<clinit>/new sun.text.normalizer.NormalizerBase$QuickCheckResult/0, 1
+  sun.text.normalizer.NormalizerBase.<clinit>/new sun.text.normalizer.NormalizerBase$QuickCheckResult/1, 1
+  sun.text.normalizer.NormalizerBase.<clinit>/new sun.text.normalizer.NormalizerBase$QuickCheckResult/2, 1
+  sun.text.normalizer.NormalizerBase.compose/new java.lang.String/0, 3
+  <sun.text.normalizer.NormalizerBase: java.lang.String decompose(java.lang.String,boolean,int)>/new java.lang.String/0, 3
+  <sun.text.normalizer.NormalizerBase: java.lang.String decompose(java.lang.String,boolean,int)>/new java.lang.String/1, 3
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.RangeValueIterator$Element/0, 3
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.RangeValueIterator$Element/1, 3
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.RangeValueIterator$Element/2, 3
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.TrieIterator/0, 19
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.TrieIterator/1, 19
+  sun.text.normalizer.NormalizerImpl.addPropertyStarts/new sun.text.normalizer.TrieIterator/2, 19
+  sun.text.normalizer.NormalizerImpl.<clinit>/new sun.text.normalizer.NormalizerImpl/0, 57
+  sun.text.normalizer.NormalizerImpl.composeHangul/new sun.text.normalizer.NormalizerImpl$DecomposeArgs/0, 3
+  sun.text.normalizer.NormalizerImpl.compose/new sun.text.normalizer.NormalizerImpl$ComposePartArgs/0, 2
+  sun.text.normalizer.NormalizerImpl.composePart/new sun.text.normalizer.NormalizerImpl$RecomposeArgs/0, 2
+  sun.text.normalizer.NormalizerImpl.findNextStarter/new sun.text.normalizer.NormalizerImpl$DecomposeArgs/0, 3
+  sun.text.normalizer.NormalizerImpl.<init>/new java.io.BufferedInputStream/0, 5
+  sun.text.normalizer.NormalizerImpl.<init>/new java.io.ByteArrayInputStream/0, 3
+  sun.text.normalizer.NormalizerImpl.<init>/new java.io.ByteArrayInputStream/1, 3
+  sun.text.normalizer.NormalizerImpl.<init>/new java.io.ByteArrayInputStream/2, 3
+  sun.text.normalizer.NormalizerImpl.<init>/new sun.text.normalizer.IntTrie/0, 1
+  sun.text.normalizer.NormalizerImpl.insertOrdered/new sun.text.normalizer.NormalizerImpl$PrevArgs/0, 2
+  <sun.text.normalizer.NormalizerImpl: int decompose(char[],int,int,char[],int,int,boolean,int[],sun.text.normalizer.UnicodeSet)>/new sun.text.normalizer.NormalizerImpl$DecomposeArgs/0, 3
+  sun.text.normalizer.NormalizerImpl.internalGetNXCJKCompat/new sun.text.normalizer.UnicodeSet/0, 8
+  sun.text.normalizer.NormalizerImpl.internalGetNXCJKCompat/new sun.text.normalizer.UnicodeSet/1, 8
+  sun.text.normalizer.NormalizerImpl.internalGetNXCJKCompat/new sun.text.normalizer.UnicodeSetIterator/0, 7
+  sun.text.normalizer.NormalizerImpl.internalGetNXHangul/new sun.text.normalizer.UnicodeSet/0, 8
+  sun.text.normalizer.NormalizerImpl.internalGetNX/new sun.text.normalizer.UnicodeSet/0, 8
+  sun.text.normalizer.NormalizerImpl.internalGetNXUnicode/new sun.text.normalizer.UnicodeSet/0, 8
+  <sun.text.normalizer.NormalizerImpl: int mergeOrdered(char[],int,int,char[],int,int,boolean)>/new sun.text.normalizer.NormalizerImpl$NextCCArgs/0, 2
+  <sun.text.normalizer.NormalizerImpl: int mergeOrdered(char[],int,int,char[],int,int,boolean)>/new sun.text.normalizer.NormalizerImpl$PrevArgs/0, 2
+  sun.text.normalizer.NormalizerImpl.isTrueStarter/new sun.text.normalizer.NormalizerImpl$DecomposeArgs/0, 3
+  sun.text.normalizer.NormalizerImpl.recompose/new sun.text.normalizer.NormalizerImpl$NextCombiningArgs/0, 2
+  sun.text.normalizer.RuleCharacterIterator.lookahead/new java.lang.String/0, 3
+  <sun.text.normalizer.UCharacterIterator: sun.text.normalizer.UCharacterIterator getInstance(java.lang.String)>/new sun.text.normalizer.ReplaceableUCharacterIterator/0, 1
+  sun.text.normalizer.UCharacterProperty.addPropertyStarts/new sun.text.normalizer.RangeValueIterator$Element/0, 3
+  sun.text.normalizer.UCharacterProperty.addPropertyStarts/new sun.text.normalizer.RangeValueIterator$Element/1, 3
+  sun.text.normalizer.UCharacterProperty.addPropertyStarts/new sun.text.normalizer.TrieIterator/0, 19
+  sun.text.normalizer.UCharacterProperty.addPropertyStarts/new sun.text.normalizer.TrieIterator/1, 19
+  sun.text.normalizer.UCharacterProperty.getInclusions/new sun.text.normalizer.UnicodeSet/0, 8
+  sun.text.normalizer.UCharacterProperty.getInstance/new sun.text.normalizer.UCharacterProperty/0, 53
+  sun.text.normalizer.UCharacterProperty.<init>/new java.io.BufferedInputStream/0, 5
+  sun.text.normalizer.UCharacterProperty.<init>/new sun.text.normalizer.UCharacterPropertyReader/0, 8
+  <sun.text.normalizer.UnicodeSet: sun.text.normalizer.UnicodeSet applyPattern(java.lang.String,java.text.ParsePosition,sun.text.normalizer.SymbolTable,int)>/new java.text.ParsePosition/0, 2
+  <sun.text.normalizer.UnicodeSet: sun.text.normalizer.UnicodeSet applyPattern(java.lang.String,java.text.ParsePosition,sun.text.normalizer.SymbolTable,int)>/new sun.text.normalizer.RuleCharacterIterator/0, 5
+  <sun.text.normalizer.UnicodeSet: void applyPattern(sun.text.normalizer.RuleCharacterIterator,sun.text.normalizer.SymbolTable,java.lang.StringBuffer,int)>/new sun.text.normalizer.UnicodeSet/0, 8
+  <sun.text.normalizer.UnicodeSet: void applyPropertyPattern(sun.text.normalizer.RuleCharacterIterator,java.lang.StringBuffer,sun.text.normalizer.SymbolTable)>/new java.text.ParsePosition/0, 2
+  sun.text.normalizer.VersionInfo.<clinit>/new java.util.HashMap/0, 5
+  <sun.text.normalizer.VersionInfo: sun.text.normalizer.VersionInfo getInstance(int,int,int,int)>/new java.lang.Integer/0, 4
+  <sun.text.normalizer.VersionInfo: sun.text.normalizer.VersionInfo getInstance(int,int,int,int)>/new sun.text.normalizer.VersionInfo/0, 1
+  sun.text.resources.FormatData, 3
+  sun.util.calendar.CalendarSystem.initNames/new java.util.concurrent.ConcurrentHashMap/0, 7
+  sun.util.calendar.CalendarSystem.initNames/new java.util.concurrent.ConcurrentHashMap/1, 7
+  sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/new java.util.ArrayList/0, 1
+  sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/new java.util.StringTokenizer/0, 4
+  sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/new java.util.StringTokenizer/1, 4
+  sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/new sun.util.calendar.Era/0, 1
+  <sun.util.calendar.LocalGregorianCalendar: sun.util.calendar.LocalGregorianCalendar$Date newCalendarDate(java.util.TimeZone)>/new sun.util.calendar.LocalGregorianCalendar$Date/0, 1
+  sun.util.calendar.TzIDOldMapping.<clinit>/new java.util.HashMap/0, 5
+  sun.util.calendar.ZoneInfoFile$1.run/new java.io.File/0, 1
+  <sun.util.calendar.ZoneInfoFile$2: byte[] run()>/new java.io.File/0, 1
+  sun.util.calendar.ZoneInfoFile.addToCache/new java.util.HashMap/0, 5
+  sun.util.calendar.ZoneInfoFile.<clinit>/new sun.util.calendar.ZoneInfo/0, 9
+  sun.util.calendar.ZoneInfoFile.createZoneInfo/new sun.util.calendar.ZoneInfo/0, 9
+  sun.util.calendar.ZoneInfoFile.getCustomTimeZone/new sun.util.calendar.ZoneInfo/0, 9
+  sun.util.calendar.ZoneInfoFile.getZoneAliases/new java.lang.String/0, 3
+  sun.util.calendar.ZoneInfoFile.getZoneAliases/new java.lang.String/1, 3
+  sun.util.calendar.ZoneInfoFile.getZoneAliases/new java.util.HashMap/0, 5
+  sun.util.calendar.ZoneInfoFile.toCustomID/new java.lang.String/0, 3
+  sun.util.calendar.ZoneInfo.getLastRuleInstance/new java.util.SimpleTimeZone/0, 26
+  sun.util.calendar.ZoneInfo.getLastRuleInstance/new java.util.SimpleTimeZone/1, 26
+  <sun.util.calendar.ZoneInfo: int getOffsets(long,int[],int)>/new java.util.Date/0, 1
+  sun.util.LocaleDataMetaInfo.<clinit>/new java.util.HashMap/0, 5
+  sun.util.LocaleServiceProviderPool, 3
+  sun.util.LocaleServiceProviderPool.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  sun.util.LocaleServiceProviderPool.getParentLocale/new java.util.Locale/0, 5
+  sun.util.LocaleServiceProviderPool.getParentLocale/new java.util.Locale/1, 5
+  sun.util.LocaleServiceProviderPool.getParentLocale/new java.util.Locale/2, 5
+  sun.util.LocaleServiceProviderPool.<init>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  sun.util.resources.CalendarData, 3
+  sun.util.resources.CurrencyNames, 3
+  sun.util.resources.LocaleData.createLocaleList/new java.util.Locale/0, 5
+  sun.util.resources.LocaleData.createLocaleList/new java.util.StringTokenizer/0, 4
+  sun.util.resources.LocaleData.createLocaleList/new java.util.StringTokenizer/1, 4
+  sun.util.resources.LocaleData.isNonEuroLangSupported/new java.io.File/0, 1
+  sun.util.resources.OpenListResourceBundle.createMap/new java.util.HashMap/0, 5
+  sun.util.TimeZoneNameUtility.<clinit>/new java.util.concurrent.ConcurrentHashMap/0, 7
+  sun.util.TimeZoneNameUtility.<clinit>/new java.util.concurrent.ConcurrentHashMap/1, 7
+  sun.util.TimeZoneNameUtility.loadZoneStrings/new java.util.LinkedList/0, 1
+  <<system-thread-group>>, 4

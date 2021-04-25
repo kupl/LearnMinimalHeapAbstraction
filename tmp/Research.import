@@ -1,0 +1,5 @@
+option,delimiter,"\t"
+option,hasColumnNames,false
+
+fromFile,"/home/minseok/SafeAILearnMinimal/Research.facts",h,heap
+toPredicate,Research,heap
