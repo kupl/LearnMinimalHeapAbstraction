@@ -75,7 +75,7 @@ def LearnMinimalType(pgm, candidate_types, current_types):
     one_type = candidate_types.pop()
     tmp_current_types.add(one_type)
     print "OneType : {}".format(one_type)
-    new_prec = RunF(pgm, tmp_current_types)
+    new_prec = RunF_type(pgm, tmp_current_types)
     if new_prec < current_prec:
       current_types = tmp_current_types
       print 'We find a worthful type Now : {}'.format(len(current_types))
